@@ -245,7 +245,6 @@
     "text_fields_analyzer_pattern": "[\n()\\[\\]/,:;?!\" ]",
     "text_fields_lowercase": false,
     "word_fields_by_tier": {
-        "kamas_phon": [],
         "russian": [
             "lex",
             "gr"
@@ -1461,7 +1460,7 @@
     "wf_lowercase": true,
     "search_remove_whitespaces": false,
     "languages": [
-        "kamas"
+        "avar"
     ],
     "transliterations": ["original"],
     "input_methods": [
@@ -1479,7 +1478,7 @@
     "detect_lemma_queries": true,
     "ambiguous_analyses": true,
     "lang_props": {
-        "kamas": {
+        "avar": {
             "dictionary_categories": [
                 "gender",
                 "proType",
