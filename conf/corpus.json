@@ -1,8 +1,8 @@
 {
     "corpus_name": "avar",
     "elastic_url": "http://localhost:9200/",
-    "citation": "<p>Gusev, Valentin; Klooster, Tiina; Wagner-Nagy, Beáta. 2023. &quot;INEL Kamas Corpus.&quot; Version 2.0. Publication date 2023-12-31. http://hdl.handle.net/11022/0000-0007-FC25-4. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages.https://hdl.handle.net/11022/0000-0007-F45A-1. </p><p>To cite a particular sentence, you can use the reference code which appears below the examples (e.g. \"PKZ_196X_SU0218.228\"). The reference codes include the text name and the number of the sentence (continuous numbering for each speaker). The following number(s) in parentheses can be disregarded.</p>",
-    "start_page_url": "https://inel.corpora.uni-hamburg.de/portal/corpora/kamas/#en",
+    "citation": "",
+    "start_page_url": "http://127.0.0.1:7342/search",
     "documentation_url": "https://www.fdr.uni-hamburg.de/record/13882/files/kamas-2.0-documentation.pdf",
     "input_format": "json",
     "debug": false,
@@ -289,7 +289,7 @@
                     {
                         "type": "header",
                         "value": "Russian borrowings"
-                    },
+                    },  
                     {
                         "type": "tag",
                         "value": "RUS:core",
