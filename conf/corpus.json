@@ -6,7 +6,7 @@
     "documentation_url": "https://www.fdr.uni-hamburg.de/record/13882/files/kamas-2.0-documentation.pdf",
     "input_format": "json",
     "debug": false,
-    "media": true,
+    "media": false,
     "media_length": 60,
     "max_context_expand": 30,
     "fulltext_view_enabled": true,
@@ -2219,9 +2219,9 @@
                         },
                         {
                             "type": "gramm",
-                            "value": "propr",
+                            "value": "propr1",
                             "category": "pos",
-                            "tooltip": "Proper noun"
+                            "tooltip": "Proper noun1"
                         },
                         {
                             "type": "gramm",
