@@ -2147,25 +2147,37 @@
                         },
                         {
                             "type": "gramm",
-                            "value": "aux",
+                            "value": "vblex",
                             "category": "pos",
-                            "tooltip": "Auxiliary"
+                            "tooltip": "Verb (lex)"
                         },
                         {
                             "type": "gramm",
-                            "value": "conj",
+                            "value": "cnjcoo",
                             "category": "pos",
-                            "tooltip": "Conjunction"
+                            "tooltip": "Co-ordinating conjunction"
                         },
                         {
                             "type": "gramm",
-                            "value": "dempro",
+                            "value": "cnjsub",
                             "category": "pos",
-                            "tooltip": "Demonstrative pronoun"
+                            "tooltip": "Sub-ordinating conjunction"
                         },
                         {
                             "type": "gramm",
-                            "value": "interj",
+                            "value": "cnjadv",
+                            "category": "pos",
+                            "tooltip": "Conjunctive adverb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "prn",
+                            "category": "pos",
+                            "tooltip": "Pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ij",
                             "category": "pos",
                             "tooltip": "Interjection"
                         },
@@ -2174,6 +2186,12 @@
                             "value": "n",
                             "category": "pos",
                             "tooltip": "Noun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "np",
+                            "category": "pos",
+                            "tooltip": "Proper noun"
                         },
                         {
                             "type": "gramm",
@@ -2251,7 +2269,7 @@
                         },
                         {
                             "type": "gramm",
-                            "value": "objc",
+                            "value": "abbr",
                             "category": "persnum-conj",
                             "tooltip": "objective conjugation"
                         },
