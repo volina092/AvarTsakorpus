@@ -537,7 +537,7 @@
                                 "m",
                                 "nom"
                             ],
-                            "trans_ru": "\\@Мухӏамад",
+                            "trans_ru": "@Мухӏамад",
                             "gr.pos": "np"
                         },
                         {
@@ -548,7 +548,7 @@
                                 "m",
                                 "attr"
                             ],
-                            "trans_ru": "\\@Мухӏамад",
+                            "trans_ru": "@Мухӏамад",
                             "gr.pos": "np"
                         }
                     ]
@@ -699,7 +699,7 @@
                             "lex": "цо",
                             "gr.tags": [
                                 "num",
-                                "\\<subst\\>pl",
+                                "<subst>pl",
                                 "nom"
                             ],
                             "trans_ru": "один",
@@ -1240,7 +1240,7 @@
                             "lex": "цо",
                             "gr.tags": [
                                 "num",
-                                "\\<subst\\>nt",
+                                "<subst>nt",
                                 "sg",
                                 "erg"
                             ],
@@ -1251,7 +1251,7 @@
                             "lex": "цо",
                             "gr.tags": [
                                 "num",
-                                "\\<subst\\>f",
+                                "<subst>f",
                                 "sg",
                                 "erg"
                             ],
@@ -1816,7 +1816,7 @@
                             "lex": "цо",
                             "gr.tags": [
                                 "num",
-                                "\\<subst\\>m",
+                                "<subst>m",
                                 "sg",
                                 "nom"
                             ],
@@ -2026,16 +2026,16 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -2116,12 +2116,12 @@
                     "sentence_index_neg": 12,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -2275,12 +2275,12 @@
                     "sentence_index_neg": 5,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -3528,21 +3528,21 @@
                     "sentence_index_neg": 3,
                     "ana": [
                         {
-                            "lex": "гьединаб\\<det\\>\\<ind\\>",
+                            "lex": "гьединаб",
                             "gr.tags": [
                                 "m"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гьединаб"
                         },
                         {
                             "lex": "гьединаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>m",
+                                "m",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>",
+                            "trans_ru": "@гьединаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -3790,12 +3790,12 @@
                     "sentence_index_neg": 5,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "m"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -4546,20 +4546,20 @@
                     "sentence_index_neg": 3,
                     "ana": [
                         {
-                            "lex": "гьединаб\\<det\\>\\<ind\\>",
+                            "lex": "гьединаб",
                             "gr.tags": [
                                 "pl"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гьединаб"
                         },
                         {
                             "lex": "гьединаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>pl",
+                                "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>",
+                            "trans_ru": "@гьединаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -4624,12 +4624,12 @@
                     "sentence_index_neg": 17,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -5915,12 +5915,12 @@
                     "sentence_index_neg": 4,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -6226,21 +6226,21 @@
                     "sentence_index_neg": 14,
                     "ana": [
                         {
-                            "lex": "гьадинаб\\<det\\>\\<ind\\>",
+                            "lex": "гьадинаб",
                             "gr.tags": [
                                 "nt"
                             ],
-                            "trans_ru": "@гьадинаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гьадинаб"
                         },
                         {
                             "lex": "гьадинаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>nt",
+                                "nt",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@гьадинаб\\<ind\\>",
+                            "trans_ru": "@гьадинаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -7392,20 +7392,20 @@
                     "sentence_index_neg": 23,
                     "ana": [
                         {
-                            "lex": "гьединаб\\<det\\>\\<ind\\>",
+                            "lex": "гьединаб",
                             "gr.tags": [
                                 "pl"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гьединаб"
                         },
                         {
                             "lex": "гьединаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>pl",
+                                "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>",
+                            "trans_ru": "@гьединаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -7423,7 +7423,7 @@
                             "lex": "дагъистанияв",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "nom"
                             ],
                             "trans_ru": "дагестанский",
@@ -7687,12 +7687,12 @@
                     "sentence_index_neg": 10,
                     "ana": [
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         },
                         {
                             "lex": "гьаб",
@@ -8136,7 +8136,7 @@
                                 "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
@@ -8160,12 +8160,12 @@
                             "gr.pos": "adj"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "pl"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -8188,12 +8188,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         },
                         {
                             "lex": "гьаб",
@@ -8429,16 +8429,16 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -8704,21 +8704,21 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гӏадинаб\\<det\\>\\<ind\\>",
+                            "lex": "гӏадинаб",
                             "gr.tags": [
                                 "nt"
                             ],
-                            "trans_ru": "@гӏадинаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гӏадинаб"
                         },
                         {
                             "lex": "гӏадинаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>nt",
+                                "nt",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@гӏадинаб\\<ind\\>",
+                            "trans_ru": "@гӏадинаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -9022,12 +9022,12 @@
                     "sentence_index_neg": 10,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -9126,12 +9126,12 @@
                     "sentence_index_neg": 5,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -9299,16 +9299,16 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -9627,12 +9627,12 @@
                     "sentence_index_neg": 8,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "m"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -10024,7 +10024,7 @@
                             "lex": "гӏолилав",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "loc"
                             ],
                             "trans_ru": "парень",
@@ -10600,12 +10600,12 @@
                     "sentence_index_neg": 15,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -11063,7 +11063,7 @@
                             "lex": "гӏолилав",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "парень",
@@ -11757,12 +11757,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         },
                         {
                             "lex": "гьаб",
@@ -11946,12 +11946,12 @@
                     "sentence_index_neg": 3,
                     "ana": [
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         },
                         {
                             "lex": "гьаб",
@@ -12042,7 +12042,7 @@
                                 "m",
                                 "erg"
                             ],
-                            "trans_ru": "\\@Мухӏамад",
+                            "trans_ru": "@Мухӏамад",
                             "gr.pos": "np"
                         }
                     ]
@@ -12520,7 +12520,7 @@
                                 "m",
                                 "attr"
                             ],
-                            "trans_ru": "\\@Мухӏамад",
+                            "trans_ru": "@Мухӏамад",
                             "gr.pos": "np"
                         },
                         {
@@ -12531,7 +12531,7 @@
                                 "m",
                                 "nom"
                             ],
-                            "trans_ru": "\\@Мухӏамад",
+                            "trans_ru": "@Мухӏамад",
                             "gr.pos": "np"
                         }
                     ]
@@ -12588,12 +12588,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -12817,12 +12817,12 @@
                     "sentence_index_neg": 10,
                     "ana": [
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         },
                         {
                             "lex": "гьаб",
@@ -13070,10 +13070,10 @@
                             "lex": "щибниги",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>pl",
+                                "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@щибниги\\<ind\\>",
+                            "trans_ru": "@щибниги",
                             "gr.pos": "prn"
                         }
                     ]
@@ -14406,12 +14406,12 @@
                     "sentence_index_neg": 2,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -14912,7 +14912,7 @@
                                 "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
@@ -14936,12 +14936,12 @@
                             "gr.pos": "adj"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "pl"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -15403,7 +15403,7 @@
                             "lex": "журналист",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "nom"
                             ],
                             "trans_ru": "журналист",
@@ -16004,7 +16004,7 @@
                             "lex": "гӏурусав",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "erg"
                             ],
                             "trans_ru": "русский",
@@ -17005,12 +17005,12 @@
                     "sentence_index_neg": 7,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -17157,12 +17157,12 @@
                     "sentence_index_neg": 10,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -17537,7 +17537,7 @@
                             "lex": "гӏурусав",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "loc"
                             ],
                             "trans_ru": "русский",
@@ -18132,12 +18132,12 @@
                     "sentence_index_neg": 7,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -18423,7 +18423,7 @@
                             "lex": "гьобол",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "гость",
@@ -18752,7 +18752,7 @@
                             "lex": "дагъистанияв",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "дагестанский",
@@ -19727,12 +19727,12 @@
                     "sentence_index_neg": 1,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -19884,7 +19884,7 @@
                             "lex": "кӏиго",
                             "gr.tags": [
                                 "num",
-                                "\\<dist\\>"
+                                "<dist>"
                             ],
                             "trans_ru": "два",
                             "gr.pos": "num"
@@ -20019,21 +20019,21 @@
                     "sentence_index_neg": 8,
                     "ana": [
                         {
-                            "lex": "гьединаб\\<det\\>\\<ind\\>",
+                            "lex": "гьединаб",
                             "gr.tags": [
                                 "nt"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<ind@\\\\<sent>*\\>"
+                            "trans_ru": "@гьединаб"
                         },
                         {
                             "lex": "гьединаб",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>nt",
+                                "nt",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@гьединаб\\<ind\\>",
+                            "trans_ru": "@гьединаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -20746,12 +20746,12 @@
                     "sentence_index_neg": 7,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -20930,11 +20930,11 @@
                             "lex": "щибниги",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>nt",
+                                "nt",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@щибниги\\<ind\\>",
+                            "trans_ru": "@щибниги",
                             "gr.pos": "prn"
                         }
                     ]
@@ -22783,22 +22783,22 @@
                             "lex": "щибниги",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>m",
+                                "m",
                                 "sg",
                                 "gen"
                             ],
-                            "trans_ru": "@щибниги\\<ind\\>",
+                            "trans_ru": "@щибниги",
                             "gr.pos": "prn"
                         },
                         {
                             "lex": "щибниги",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>f",
+                                "f",
                                 "sg",
                                 "gen"
                             ],
-                            "trans_ru": "@щибниги\\<ind\\>",
+                            "trans_ru": "@щибниги",
                             "gr.pos": "prn"
                         }
                     ]
@@ -22864,12 +22864,12 @@
                     "sentence_index_neg": 5,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -22895,12 +22895,12 @@
                     "sentence_index_neg": 4,
                     "ana": [
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         },
                         {
                             "lex": "кинаб",
@@ -22911,7 +22911,7 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
@@ -23668,12 +23668,12 @@
                     "sentence_index_neg": 8,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -24045,12 +24045,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -24841,12 +24841,12 @@
                     "sentence_index_neg": 13,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -25199,12 +25199,12 @@
                     "sentence_index_neg": 9,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -25408,11 +25408,11 @@
                             "lex": "щибниги",
                             "gr.tags": [
                                 "prn",
-                                "\\<ind\\>nt",
+                                "nt",
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@щибниги\\<ind\\>",
+                            "trans_ru": "@щибниги",
                             "gr.pos": "prn"
                         }
                     ]
@@ -25471,12 +25471,12 @@
                     "sentence_index_neg": 2,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -26431,12 +26431,12 @@
                     "sentence_index_neg": 2,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -26748,11 +26748,11 @@
                     "sentence_index_neg": 21,
                     "ana": [
                         {
-                            "lex": "щибаб\\<det\\>\\<def\\>",
+                            "lex": "щибаб",
                             "gr.tags": [
                                 "nt"
                             ],
-                            "trans_ru": "каждый@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<def@\\\\<sent>*\\>"
+                            "trans_ru": "каждый"
                         },
                         {
                             "lex": "щибаб",
@@ -26882,7 +26882,7 @@
                             "lex": "журналист",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "nom"
                             ],
                             "trans_ru": "журналист",
@@ -27003,12 +27003,12 @@
                     "sentence_index_neg": 11,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -27286,12 +27286,12 @@
                     "sentence_index_neg": 8,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -27488,12 +27488,12 @@
                     "sentence_index_neg": 4,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -28817,16 +28817,16 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -28927,12 +28927,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -29293,7 +29293,7 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         }
                     ]
@@ -32622,12 +32622,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "pl"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -32655,7 +32655,7 @@
                             "lex": "чиновник",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "чиновник",
@@ -32813,12 +32813,12 @@
                     "sentence_index_neg": 6,
                     "ana": [
                         {
-                            "lex": "гьеб\\<det\\>",
+                            "lex": "гьеб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "то"
                         },
                         {
                             "lex": "гьеб",
@@ -32869,7 +32869,7 @@
                             "lex": "бетӏергьан",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "nom"
                             ],
                             "trans_ru": "@бетӏергьан",
@@ -32923,7 +32923,7 @@
                             "lex": "чиновник",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "nom"
                             ],
                             "trans_ru": "чиновник",
@@ -33071,7 +33071,7 @@
                             "lex": "чиновник",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "чиновник",
@@ -33287,11 +33287,11 @@
                     "sentence_index_neg": 2,
                     "ana": [
                         {
-                            "lex": "щибаб\\<det\\>\\<def\\>",
+                            "lex": "щибаб",
                             "gr.tags": [
                                 "nt"
                             ],
-                            "trans_ru": "каждый@\\\\<sent>*\\<det@\\\\<sent>*\\>@\\\\<sent>*\\<def@\\\\<sent>*\\>"
+                            "trans_ru": "каждый"
                         },
                         {
                             "lex": "щибаб",
@@ -33757,7 +33757,7 @@
                             "lex": "дагъистанияв",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "gen"
                             ],
                             "trans_ru": "дагестанский",
@@ -34061,12 +34061,12 @@
                     "sentence_index_neg": 14,
                     "ana": [
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "m"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -34537,7 +34537,7 @@
                                 "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
@@ -34552,12 +34552,12 @@
                             "gr.pos": "n"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "pl"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -34852,12 +34852,12 @@
                             "gr.pos": "vblex"
                         },
                         {
-                            "lex": "гьаб\\<det\\>",
+                            "lex": "гьаб",
                             "gr.tags": [
                                 "dem",
                                 "nt"
                             ],
-                            "trans_ru": "это@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "это"
                         }
                     ]
                 },
@@ -35451,7 +35451,7 @@
                             "lex": "гӏолилав",
                             "gr.tags": [
                                 "n",
-                                "\\<mf\\>pl",
+                                "<mf>pl",
                                 "erg"
                             ],
                             "trans_ru": "парень",
@@ -35775,7 +35775,7 @@
                                 "pl",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
@@ -35790,12 +35790,12 @@
                             "gr.pos": "n"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "pl"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
@@ -37771,16 +37771,16 @@
                                 "sg",
                                 "nom"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>",
+                            "trans_ru": "@кинаб",
                             "gr.pos": "prn"
                         },
                         {
-                            "lex": "кинаб\\<det\\>",
+                            "lex": "кинаб",
                             "gr.tags": [
                                 "itg",
                                 "nt"
                             ],
-                            "trans_ru": "@кинаб\\<det\\>@\\\\<sent>*\\<det@\\\\<sent>*\\>"
+                            "trans_ru": "@кинаб"
                         }
                     ]
                 },
