@@ -1,0 +1,3300 @@
+{
+    "corpus_name": "avar",
+    "elastic_url": "http://localhost:9200/",
+    "citation": "<p>Gusev, Valentin; Klooster, Tiina; Wagner-Nagy, Beáta. 2023. &quot;INEL Kamas Corpus.&quot; Version 2.0. Publication date 2023-12-31. http://hdl.handle.net/11022/0000-0007-FC25-4. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages.https://hdl.handle.net/11022/0000-0007-F45A-1. </p><p>To cite a particular sentence, you can use the reference code which appears below the examples (e.g. \"PKZ_196X_SU0218.228\"). The reference codes include the text name and the number of the sentence (continuous numbering for each speaker). The following number(s) in parentheses can be disregarded.</p>",
+    "start_page_url": "https://inel.corpora.uni-hamburg.de/portal/corpora/kamas/#en",
+    "documentation_url": "https://www.fdr.uni-hamburg.de/record/13882/files/kamas-2.0-documentation.pdf",
+    "input_format": "json",
+    "debug": false,
+    "media": true,
+    "media_length": 60,
+    "max_context_expand": 30,
+    "fulltext_view_enabled": true,
+    "use_nonpersistent_fulltext_id": true,
+    "max_distance_filter": 200000,
+    "max_docs_retrieve": 9999,
+    "max_words_in_sentence": 50,
+    "query_timeout": 60,
+    "viewable_meta": [
+        "title",
+        "title_en",
+        "title_ru",
+        "collector",
+        "year_from",
+        "year_to",
+        "genre",
+        "speakers",
+        "transcribed_by",
+        "date_of_transcribing",
+        "translated_by_ru",
+        "translated_by_en",
+        "translated_by_de",
+        "translated_by_de_src",
+        "annotation_SeR",
+        "annotation_SyF",
+        "annotation_IST",
+        "annotation_ExLocPoss",
+        "glossed_by",
+        "archive_written",
+        "published_in"
+    ],
+    "author_metafield": "speakers",
+    "sentence_meta": [],
+    "search_meta": {
+        "columns": [
+            [
+                {
+                    "type": "input_text",
+                    "name": "title",
+                    "placeholder": "Text name"
+                },
+                {
+                    "type": "input_text",
+                    "name": "title_en",
+                    "placeholder": "Title (EN)"
+                },
+                {
+                    "type": "input_text",
+                    "name": "title_ru",
+                    "placeholder": "Title (RU)"
+                },
+                {
+                    "type": "input_number",
+                    "name": "year_from",
+                    "placeholder": "Year: from"
+                },
+                {
+                    "type": "input_number",
+                    "name": "year_to",
+                    "placeholder": "Year: to"
+                },
+                {
+                    "type": "input_text",
+                    "name": "archive_written",
+                    "placeholder": "Archive (written)"
+                },
+                {
+                    "type": "input_text",
+                    "name": "published_in",
+                    "placeholder": "Published in"
+                },
+                {"type": "separator"},
+                {
+                    "type": "input_text",
+                    "name": "glossed_by",
+                    "placeholder": "Glossed by"
+                },
+                {
+                    "type": "input_text",
+                    "name": "annotation_SeR",
+                    "placeholder": "Annotation SeR"
+                },
+                {
+                    "type": "input_text",
+                    "name": "annotation_SyF",
+                    "placeholder": "Annotation SyF"
+                },
+                {
+                    "type": "input_text",
+                    "name": "annotation_IST",
+                    "placeholder": "Annotation IST"
+                },
+                {
+                    "type": "input_text",
+                    "name": "annotation_ExLocPoss",
+                    "placeholder": "Annotation ExLocPoss"
+                }
+            ],
+            [
+                {
+                    "type": "input_text",
+                    "name": "collector",
+                    "placeholder": "Collector"
+                },
+                {
+                    "type": "option",
+                    "name": "collector",
+                    "text": "Kai Donner",
+                    "value": "DK"
+                },
+                {
+                    "type": "option",
+                    "name": "collector",
+                    "text": "Ago Künnap",
+                    "value": "KA"
+                },
+                {
+                    "type": "option",
+                    "name": "collector",
+                    "text": "Tiit-Rein Viitso",
+                    "value": "VTR"
+                }
+            ],
+            [
+                {
+                    "type": "input_text",
+                    "name": "speakers",
+                    "placeholder": "Speaker"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "Klavdiya Plotnikova",
+                    "value": "PKZ"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "Aleksandra Semyonova",
+                    "value": "SAE"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "Avdakeya Andzhigatova",
+                    "value": "AA"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "Some avar-speaking guy",
+                    "value": "TMP_avar_speaker"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "Innokentiy Ashpurov",
+                    "value": "AIN"
+                },
+                {
+                    "type": "option",
+                    "name": "speakers",
+                    "text": "NN",
+                    "value": "NN"
+                }
+            ],
+            [
+                {
+                    "type": "input_text",
+                    "name": "genre",
+                    "placeholder": "Genre"
+                },
+                {
+                    "type": "option",
+                    "name": "genre",
+                    "text": "folklore",
+                    "value": "flk"
+                },
+                {
+                    "type": "option",
+                    "name": "genre",
+                    "text": "narrative",
+                    "value": "nar"
+                },
+                {
+                    "type": "option",
+                    "name": "genre",
+                    "text": "miscellaneous",
+                    "value": "misc"
+                },
+                {
+                    "type": "option",
+                    "name": "genre",
+                    "text": "song",
+                    "value": "song"
+                }
+            ]
+        ],
+        "stat_options": [
+            "title",
+            "title_en",
+            "title_ru",
+            "collector",
+            "year_from",
+            "year_to",
+            "genre",
+            "speakers",
+            "transcribed_by",
+            "date_of_transcribing",
+            "translated_by_ru",
+            "translated_by_en",
+            "translated_by_de",
+            "translated_by_de_src",
+            "annotation_SeR",
+            "annotation_SyF",
+            "annotation_IST",
+            "annotation_ExLocPoss",
+            "glossed_by",
+            "archive_written",
+            "published_in"
+        ]
+    },
+    "word_fields": [
+        "trans_en",
+        "trans_ru",
+        "mc",
+        "SeR",
+        "SyF",
+        "IST",
+        "BOR",
+        "BOR-Phon",
+        "BOR-Morph",
+        "CS",
+        "ExLocPoss"
+    ],
+    "text_fields_analyzer_pattern": "[\n()\\[\\]/,:;?!\" ]",
+    "text_fields_lowercase": false,
+    "word_fields_by_tier": {
+        "kamas_phon": [],
+        "russian": [
+            "lex",
+            "gr"
+        ],
+        "german": [],
+        "german_src": [],
+        "english": [],
+        "english_note": [],
+        "ref": []
+    },
+    "kw_word_fields": [
+        "SeR",
+        "SyF",
+        "IST",
+        "BOR",
+        "BOR-Phon",
+        "BOR-Morph",
+        "CS",
+        "ExLocPoss"
+    ],
+    "word_search_display_gr": true,
+    "word_table_fields": [
+        "trans_en",
+        "trans_ru",
+        "BOR"
+    ],
+    "accidental_word_fields": [
+        "mc",
+        "SeR",
+        "SyF",
+        "IST",
+        "BOR-Phon",
+        "BOR-Morph",
+        "CS",
+        "ExLocPoss"
+    ],
+    "multiple_choice_fields": {
+        "BOR": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "Russian borrowings"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:core",
+                        "tooltip": "lexical core borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:cult",
+                        "tooltip": "lexical cultural borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:gram",
+                        "tooltip": "grammatical borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "%RUS:gram",
+                        "tooltip": "possible grammatical borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:mod",
+                        "tooltip": "modal word borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:disc",
+                        "tooltip": "discourse word borrowing from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:calq",
+                        "tooltip": "lexical calque from Russian"
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "Turkic borrowings"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:core",
+                        "tooltip": "lexical core borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "%TURK:core",
+                        "tooltip": "possible lexical core borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:cult",
+                        "tooltip": "lexical cultural borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "%TURK:cult",
+                        "tooltip": "possible lexical cultural borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:gram",
+                        "tooltip": "grammatical borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "%TURK:gram",
+                        "tooltip": "possible grammatical borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:mod",
+                        "tooltip": "modal word borrowing from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:disc",
+                        "tooltip": "discourse word borrowing from Turkic"
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "Other borrowings"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "MONG:core",
+                        "tooltip": "lexical core borrowing from Mongolic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "EST:cult",
+                        "tooltip": "lexical cultural borrowing from Estonian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "KHAK:cult",
+                        "tooltip": "lexical cultural borrowing from Khakas"
+                    }
+                ]
+            ]
+        },
+        "BOR-Morph": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "Morphology of borrowings"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "dir:bare",
+                        "tooltip": "direct insertion, uninflected"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "dir:infl",
+                        "tooltip": "direct insertion, inflected"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "indir:bare",
+                        "tooltip": "indirect insertion, uninflected"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "indir:infl",
+                        "tooltip": "indirect insertion, inflected"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "parad:bare",
+                        "tooltip": "paradigm insertion, uninflected"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "parad:infl",
+                        "tooltip": "paradigm insertion, inflected"
+                    }
+                ]
+            ]
+        },
+        "BOR-Phon": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "Phonology of borrowings"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Csub",
+                        "tooltip": "change of consonant"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Vsub",
+                        "tooltip": "change of vowel"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "medCdel",
+                        "tooltip": "deletion of word-medial consonant"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "medVins",
+                        "tooltip": "insertion of vowel word-medially"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "finCdel",
+                        "tooltip": "deletion of word-final consonant"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "finVdel",
+                        "tooltip": "deletion of word-final vowel"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "finVins",
+                        "tooltip": "insertion of vowel word-finally"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "lenition",
+                        "tooltip": "consonant lenition"
+                    }
+                ]
+            ]
+        },
+        "CS": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "Code switching"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:int",
+                        "tooltip": "utterance-internal switch to Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:ext",
+                        "tooltip": "utterance-external switch to Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "RUS:calq",
+                        "tooltip": "calque from Russian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "EST:int",
+                        "tooltip": "utterance-internal switch to Estonian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "EST:ext",
+                        "tooltip": "utterance-external switch to Estonian"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "FIN:ext",
+                        "tooltip": "utterance-external switch to Finnish"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TURK:calq",
+                        "tooltip": "calque from Turkic"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "TAT:ext",
+                        "tooltip": "utterance-external switch to Tatar"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "KHAK:ext",
+                        "tooltip": "utterance-external switch to Khakas"
+                    }
+                ]
+            ]
+        },
+        "ExLocPoss": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "ExLocPoss_Ex"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Ex.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Cop.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Loc.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Zero.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:PosV.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Pos.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Cop.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Ex:Ex.Aff",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "ExLocPoss_Loc"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc: ",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:Ex.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:Cop.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:Cop.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:Zero.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:PosV.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Loc:Ex.Aff",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "ExLocPoss_Poss"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Poss:Ex.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Poss:Cop.Neg",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Poss:Cop.Aff",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "Poss:Zero.Aff",
+                        "tooltip": ""
+                    }
+                ]
+            ]
+        },
+        "IST": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "IST_New"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "new",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "new-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.new",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "IST_Given"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "giv-active",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "giv-inactive",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "giv-active-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "giv-inactive-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.giv-active",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.giv-inactive",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.giv-active-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.giv-inactive-Q",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "IST_Accessible"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-aggr",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-gen",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-inf",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-sit",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-aggr-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-gen-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-inf-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "accs-sit-Q",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.accs-aggr",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.accs-gen",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "IST_Quotative"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "quot-sp",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "quot-sp-Q",
+                        "tooltip": ""
+                    }
+                ]
+            ]
+        },
+        "SyF": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "SyF_Predicate"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adj:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "cop",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "conv:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "n:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "ptcl:pred",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "v:pred",
+                        "tooltip": ""
+                    },
+                    {"type":    "separator"},
+                    {
+                        "type": "tag",
+                        "value": "ptcl.neg",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "SyF_NounPhrase"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:O",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:O",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SyF_Pronoun"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:O",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:O",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SyF_SubordinateClause"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:adv",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:compl",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:cond",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:purp",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:rel",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "s:temp",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "SyF_ZeroArgument"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:O",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:S",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:O",
+                        "tooltip": ""
+                    }
+                ]
+            ]
+        },
+        "SeR": {
+            "columns": [
+                [
+                    {
+                        "type": "header",
+                        "value": "SeR_NounPhrase"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:B",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Cau",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Com",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:G",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Ins",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:L",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Pth",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:So",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Th",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np:Time",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SeR_NounPhrase_human"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:B",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:Com",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:Ins",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:L",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "np.h:Th",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "SeR_Pronoun"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:B",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:Cau",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:G",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:Ins",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:L",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:Pth",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:So",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro:Th",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SeR_Pronoun_human"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:B",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:Cau",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:Com",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:G",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pro.h:Th",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "SeR_Adverb"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:G",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:L",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:Pth",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:So",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "adv:Time",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SeR_PrepositionalPhrase"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pp:G",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pp:L",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pp:Pth",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pp:So",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "pp:Time",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "header",
+                        "value": "SeR_ZeroArgument"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2:S",
+                        "tooltip": ""
+                    },
+                    {"type": "separator"},
+                    {
+                        "type": "tag",
+                        "value": "0.3:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3:Th",
+                        "tooltip": ""
+                    }
+                ],
+                [
+                    {
+                        "type": "header",
+                        "value": "SeR_ZeroArgument_human"
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.1.h:Th",
+                        "tooltip": ""
+                    },
+                    {"type": "separator"},
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.2.h:Th",
+                        "tooltip": ""
+                    },
+                    {"type": "separator"},
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:A",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:E",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:P",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:Poss",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:R",
+                        "tooltip": ""
+                    },
+                    {
+                        "type": "tag",
+                        "value": "0.3.h:Th",
+                        "tooltip": ""
+                    }
+                ]
+            ]
+        }
+    },
+    "keep_lemma_order": false,
+    "generate_dictionary": true,
+    "wf_analyzer_pattern": "[¦]",
+    "wf_lowercase": true,
+    "search_remove_whitespaces": false,
+    "languages": [
+        "kamas"
+    ],
+    "transliterations": ["original"],
+    "input_methods": [
+        "normal",
+        "simplified"
+    ],
+    "interface_languages": {
+        "en": "english",
+        "ru": "russian"
+    },
+    "all_language_search_enabled": false,
+    "gloss_search_enabled": true,
+    "sent_id_sort_enabled": true,
+    "display_freq_rank": true,
+    "detect_lemma_queries": true,
+    "ambiguous_analyses": true,
+    "lang_props": {
+        "kamas": {
+            "dictionary_categories": [
+                "gender",
+                "proType",
+                "stress"
+            ],
+            "gloss_shortcuts": {
+                "case": "(abl|acc|gen|ins|lat|loc|nom|abl\\.1sg|abl\\.3sg|acc\\.3sg|acc\\.pl|gen\\.1sg|gen\\.3sg|gen\\.pl|lat/loc\\.1pl|lat/loc\\.1sg|lat/loc\\.2pl|lat/loc\\.2sg|lat/loc\\.3pl|lat/loc\\.3sg|nom/gen\\.3sg|nom/gen/acc\\.1du|nom/gen/acc\\.1pl|nom/gen/acc\\.1sg|nom/gen/acc\\.2du|nom/gen/acc\\.2pl|nom/gen/acc\\.2sg|nom/gen/acc\\.3du|nom/gen/acc\\.3pl|nom/gen/acc\\.3sg)",
+                "poss": "poss=(abl\\.1sg|abl\\.3sg|acc\\.3sg|acc\\.pl|gen\\.1sg|gen\\.3sg|gen\\.pl|lat/loc\\.1pl|lat/loc\\.1sg|lat/loc\\.2pl|lat/loc\\.2sg|lat/loc\\.3pl|lat/loc\\.3sg|nom/gen\\.3sg|nom/gen/acc\\.1du|nom/gen/acc\\.1pl|nom/gen/acc\\.1sg|nom/gen/acc\\.2du|nom/gen/acc\\.2pl|nom/gen/acc\\.2sg|nom/gen/acc\\.3du|nom/gen/acc\\.3pl|nom/gen/acc\\.3sg)",
+                "num": "(du|pl)",
+                "tam": "(des|dur|dur\\.pst|frq|fut|hab|imp|inch|ipfvz|irreal|mom|mom\\.pres|mult|opt|prs|pst|res|sem)",
+                "nfin": "(cng|cvb|cvb\\.ant|cvb\\.neg|cvb\\.temp|inf|inf\\.lat|ptcp|ptcp\\.pass|ptcp\\.prs)",
+                "objc": "(3pl\\.o|3sg\\.o|imp\\.2pl\\.o|imp\\.2sg\\.o|imp\\.3sg\\.o)",
+                "persnum": "1du|1pl|1sg|2du|2pl|2sg|3pl|3pl\\.o|3sg|3sg\\.o|imp\\.2pl|imp\\.2pl\\.o|imp\\.2sg|imp\\.2sg\\.o|imp\\.3sg\\.o|opt\\.du/pl"
+            },
+            "gr_fields_order": [
+                "pos",
+                "cat",
+                "vrb",
+                "numDeriv",
+                "nfin",
+                "trans",
+                "tam",
+                "neg",
+                "persnum",
+                "num",
+                "case",
+                "poss",
+                "add",
+                "misc",
+                "disc"
+            ],
+            "other_fields_order": [
+                "gloss",
+                "trans_en",
+                "trans_ru",
+                "mc",
+                "SeR",
+                "SyF",
+                "IST",
+                "BOR",
+                "BOR-Phon",
+                "BOR-Morph",
+                "CS",
+                "ExLocPoss"
+            ],
+            "lexical_fields": [
+                "trans_en",
+                "trans_ru"
+            ],
+            "exclude_fields": ["hn"],
+            "gloss_selection": {
+                "columns": [
+                    [
+                        {
+                            "type": "header",
+                            "value": "Nominal categories"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Number and numerals"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DU",
+                            "tooltip": "dual"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PL",
+                            "tooltip": "plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "COLL",
+                            "tooltip": "collective numeral"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ORD",
+                            "tooltip": "ordinal numeral"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DISTR",
+                            "tooltip": "distributive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DYA",
+                            "tooltip": "dyadic (connective-reciprocal)"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Case and possession"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CASE",
+                            "tooltip": "Any&nbsp;case&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ABL",
+                            "tooltip": "ablative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ACC",
+                            "tooltip": "accusative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "COM",
+                            "tooltip": "comitative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "GEN",
+                            "tooltip": "genitive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INS",
+                            "tooltip": "instrumental"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT",
+                            "tooltip": "lative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LOC",
+                            "tooltip": "locative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "NOM",
+                            "tooltip": "nominative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ACC.PL",
+                            "tooltip": "accusative plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "GEN.PL",
+                            "tooltip": "genitive plural"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "gloss",
+                            "value": "LAT.ADV",
+                            "tooltip": "adverbial lative case"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LOC.ADV",
+                            "tooltip": "adverbial locative case"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gloss",
+                            "value": "POSS",
+                            "tooltip": "Any&nbsp;possessive&nbsp;case&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.1SG",
+                            "tooltip": "unmarked case, possessive, 1sg"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.1PL",
+                            "tooltip": "unmarked case, possessive, 1pl"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.2SG",
+                            "tooltip": "unmarked case, possessive, 2sg"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.2PL",
+                            "tooltip": "unmarked case, possessive, 2pl"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.3SG",
+                            "tooltip": "unmarked case, possessive, 3sg"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "POSS.3PL",
+                            "tooltip": "unmarked case, possessive, 3pl"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ABL.1SG",
+                            "tooltip": "ablative, 1 p. singular possessive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ABL.3SG",
+                            "tooltip": "ablative, 3 p. singular possessive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ACC.3SG",
+                            "tooltip": "accusative, 3 p. singular possessive"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "gloss",
+                            "value": "GEN.1SG",
+                            "tooltip": "genitive, 1 person singular poss."
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "GEN.3SG",
+                            "tooltip": "genitive, 3 person singular poss."
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.1SG",
+                            "tooltip": "lative or locative, 1 p. singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.1DU",
+                            "tooltip": "lative or locative, 1 p. dual"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.1PL",
+                            "tooltip": "lative or locative, 1 p. plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.2SG",
+                            "tooltip": "lative or locative, 2 p. singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.2PL",
+                            "tooltip": "lative or locative, 2 p. plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.3SG",
+                            "tooltip": "lative or locative, 3 p. singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "LAT/LOC.3PL",
+                            "tooltip": "lative or locative, 3 p. plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "NOM/GEN.3SG",
+                            "tooltip": "nominative or genitive, 3 p. sing."
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Verbal categories"
+                        },
+                        {
+                            "type": "header",
+                            "value": "TAM categories"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "TAM",
+                            "tooltip": "Any&nbsp;TAM&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DES",
+                            "tooltip": "desiderative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DUR",
+                            "tooltip": "durative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DUR.PRS",
+                            "tooltip": "present durative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DUR.PST",
+                            "tooltip": "past durative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "FRQ",
+                            "tooltip": "frequentative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "FUT",
+                            "tooltip": "future tense"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "HAB",
+                            "tooltip": "habitual"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP",
+                            "tooltip": "imperative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INCH1",
+                            "tooltip": "inchoative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IPFVZ",
+                            "tooltip": "imperfectivizer"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "MOM",
+                            "tooltip": "momentaneous"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "MOM.PRS",
+                            "tooltip": "momentaneous present"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "MULT",
+                            "tooltip": "multiplicative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "OPT",
+                            "tooltip": "optative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PRS1",
+                            "tooltip": "present tense 1 (-liA)"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PRS2",
+                            "tooltip": "present tense 2 (-gA)"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PST",
+                            "tooltip": "past tense"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "RES",
+                            "tooltip": "resultative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "SEM",
+                            "tooltip": "semelfactive"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Non-finite forms"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "NFIN",
+                            "tooltip": "Any&nbsp;non-finite&nbsp;verbal&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "COND",
+                            "tooltip": "conditional converb"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CNG",
+                            "tooltip": "connegative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CVB",
+                            "tooltip": "converb"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CVB.ANT",
+                            "tooltip": "anterior converb"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CVB.NEG",
+                            "tooltip": "negative converb"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INF",
+                            "tooltip": "infinitive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INF.LAT",
+                            "tooltip": "infinitive, lative case"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PTCP",
+                            "tooltip": "participle"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PTCP.PASS",
+                            "tooltip": "passive participle"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PTCP.PRS",
+                            "tooltip": "present participle"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Other verbal categories"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DETR",
+                            "tooltip": "detransitivizer"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DIR",
+                            "tooltip": "directive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DRV",
+                            "tooltip": "unspecified derivation"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "EP",
+                            "tooltip": "epenthetic element"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "FACT",
+                            "tooltip": "factative"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PREF",
+                            "tooltip": "(borrowed) prefix"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "RFL",
+                            "tooltip": "reflexive"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "TR",
+                            "tooltip": "transitivizer"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "TR.RES",
+                            "tooltip": "resultative transitivizer"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Person and number"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "PERSNUM",
+                            "tooltip": "Any&nbsp;person-number&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "OBJC",
+                            "tooltip": "Any&nbsp;objective&nbsp;conjugation&nbsp;marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "1SG",
+                            "tooltip": "1 person singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "1DU",
+                            "tooltip": "1 person dual"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "1PL",
+                            "tooltip": "1 person plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "2SG",
+                            "tooltip": "2 person singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "2DU",
+                            "tooltip": "2 person dual"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "2PL",
+                            "tooltip": "2 person plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "3SG",
+                            "tooltip": "3 person singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "3PL",
+                            "tooltip": "3 person plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "3SG.O",
+                            "tooltip": "3 person singular, objective conj."
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "3PL.O",
+                            "tooltip": "3 person plural, objective conj."
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP.2SG",
+                            "tooltip": "imperative, 2 pers. singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP.2SG.O",
+                            "tooltip": "imperative, 2 p. singular, objective"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP.2PL",
+                            "tooltip": "imperative, 2 pers. plural"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP.2PL.O",
+                            "tooltip": "imperative, 2 p. plural, objective"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "IMP.3SG.O",
+                            "tooltip": "imperative, 3 p. singular, objective"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "OPT.SG",
+                            "tooltip": "optative, singular"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "OPT.DU/PL",
+                            "tooltip": "optative, non-singular"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Other categories"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DISC5",
+                            "tooltip": "discourse particle 5"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "DISC6",
+                            "tooltip": "discourse particle 6"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INDEF",
+                            "tooltip": "indefinite pronoun marker"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INTJ",
+                            "tooltip": "unspecified interjection"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "QP",
+                            "tooltip": "question particle"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "ADJZ",
+                            "tooltip": "adjectivizer"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "CAR.ADJ",
+                            "tooltip": "caritive adjective"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "INS.N",
+                            "tooltip": "instrumental nominal"
+                        },
+                        {
+                            "type": "gloss",
+                            "value": "VBLZ",
+                            "tooltip": "verbalizer"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gloss",
+                            "value": "%%",
+                            "tooltip": "unknown morph"
+                        }
+                    ]
+                ]
+            },
+            "gramm_selection": {
+                "columns": [
+                    [
+                        {
+                            "type": "header",
+                            "value": "Parts of speech"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "adj",
+                            "category": "pos",
+                            "tooltip": "Adjective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "adv",
+                            "category": "pos",
+                            "tooltip": "Adverb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "aux",
+                            "category": "pos",
+                            "tooltip": "Auxiliary"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "conj",
+                            "category": "pos",
+                            "tooltip": "Conjunction"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "dempro",
+                            "category": "pos",
+                            "tooltip": "Demonstrative pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "interj",
+                            "category": "pos",
+                            "tooltip": "Interjection"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "n",
+                            "category": "pos",
+                            "tooltip": "Noun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "num",
+                            "category": "pos",
+                            "tooltip": "Numeral"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pers",
+                            "category": "pos",
+                            "tooltip": "Personal pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "post",
+                            "category": "pos",
+                            "tooltip": "Postposition"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "prep",
+                            "category": "pos",
+                            "tooltip": "Preposition"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "propr",
+                            "category": "pos",
+                            "tooltip": "Proper noun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ptcl",
+                            "category": "pos",
+                            "tooltip": "Particle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "quant",
+                            "category": "pos",
+                            "tooltip": "Quantifier"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "que",
+                            "category": "pos",
+                            "tooltip": "Interrogative pro-form"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "refl",
+                            "category": "pos",
+                            "tooltip": "Reflexive pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "v",
+                            "category": "pos",
+                            "tooltip": "Verb"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Person and number"
+                        },
+                        {
+                            "type": "header",
+                            "value": "(combine with poss,pers,v,aux)"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "poss",
+                            "category": "poss",
+                            "tooltip": "possessivity"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "objc",
+                            "category": "persnum-conj",
+                            "tooltip": "objective conjugation"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "pn1",
+                            "category": "persnum-person",
+                            "tooltip": "1st person"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pn2",
+                            "category": "persnum-person",
+                            "tooltip": "2nd person"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pn3",
+                            "category": "persnum-person",
+                            "tooltip": "3rd person"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "pnsg",
+                            "category": "persnum-number",
+                            "tooltip": "singular number"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pndu",
+                            "category": "persnum-number",
+                            "tooltip": "dual number"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pnpl",
+                            "category": "persnum-number",
+                            "tooltip": "plural number"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Nominal categories"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Case"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "abl",
+                            "category": "case",
+                            "tooltip": "ablative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "acc",
+                            "category": "case",
+                            "tooltip": "accusative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "com",
+                            "category": "case",
+                            "tooltip": "comitative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "gen",
+                            "category": "case",
+                            "tooltip": "genitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ins",
+                            "category": "case",
+                            "tooltip": "instrumental"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "lat",
+                            "category": "case",
+                            "tooltip": "lative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "loc",
+                            "category": "case",
+                            "tooltip": "locative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "nom",
+                            "category": "case",
+                            "tooltip": "nominative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "advcase",
+                            "category": "case",
+                            "tooltip": "adverbial case"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Number and numerals"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "sg",
+                            "category": "num",
+                            "tooltip": "singular"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "du",
+                            "category": "num",
+                            "tooltip": "dual"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pl",
+                            "category": "num",
+                            "tooltip": "plural"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "coll",
+                            "category": "numer",
+                            "tooltip": "collective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ord",
+                            "category": "numer",
+                            "tooltip": "ordinal"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "distr",
+                            "category": "numer",
+                            "tooltip": "distributive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "dya",
+                            "category": "numer",
+                            "tooltip": "dyadic (connective-reciprocal)"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Verbal categories"
+                        },
+                        {
+                            "type": "header",
+                            "value": "TAM categories"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "des",
+                            "category": "tam",
+                            "tooltip": "desiderative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "dur",
+                            "category": "tam",
+                            "tooltip": "durative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "frq",
+                            "category": "tam",
+                            "tooltip": "frequentative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "fut",
+                            "category": "tam",
+                            "tooltip": "future tense"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "hab",
+                            "category": "tam",
+                            "tooltip": "habitual"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "hort",
+                            "category": "tam",
+                            "tooltip": "hortative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "imp",
+                            "category": "tam",
+                            "tooltip": "imperative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inch",
+                            "category": "tam",
+                            "tooltip": "inchoative (any)"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inch1",
+                            "category": "tam",
+                            "tooltip": "inchoative (suffix)"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inch2",
+                            "category": "tam",
+                            "tooltip": "inchoative (particle)"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ipfvz",
+                            "category": "tam",
+                            "tooltip": "imperfectivizer"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "irreal",
+                            "category": "tam",
+                            "tooltip": "irrealis"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "juss",
+                            "category": "tam",
+                            "tooltip": "jussive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "mom",
+                            "category": "tam",
+                            "tooltip": "momentaneous"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "mult",
+                            "category": "tam",
+                            "tooltip": "multiplicative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "opt",
+                            "category": "tam",
+                            "tooltip": "optative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "prs",
+                            "category": "tam",
+                            "tooltip": "present tense"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pst",
+                            "category": "tam",
+                            "tooltip": "past tense"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "res",
+                            "category": "tam",
+                            "tooltip": "resultative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "sem",
+                            "category": "tam",
+                            "tooltip": "semelfactive"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Non-finite forms"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ant",
+                            "category": "nfin",
+                            "tooltip": "anterior converb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "cng",
+                            "category": "nfin",
+                            "tooltip": "connegative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "cond",
+                            "category": "nfin",
+                            "tooltip": "conditional converb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "cvb",
+                            "category": "nfin",
+                            "tooltip": "converb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inf",
+                            "category": "nfin",
+                            "tooltip": "infinitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pass",
+                            "category": "nfin",
+                            "tooltip": "passive participle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ptcp",
+                            "category": "nfin",
+                            "tooltip": "participle"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Other verbal categories"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "drv",
+                            "category": "vrb",
+                            "tooltip": "unspecified derivation marker"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "detr",
+                            "category": "vrb",
+                            "tooltip": "detransitivizer"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "dir",
+                            "category": "vrb",
+                            "tooltip": "directive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "fact",
+                            "category": "vrb",
+                            "tooltip": "factative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pref",
+                            "category": "vrb",
+                            "tooltip": "unspecified loan prefix"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "rfl",
+                            "category": "vrb",
+                            "tooltip": "reflexive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "tr",
+                            "category": "vrb",
+                            "tooltip": "transitivizer"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "trres",
+                            "category": "vrb",
+                            "tooltip": "resultative transitivizer"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Negation"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "neg",
+                            "category": "neg",
+                            "tooltip": "negation"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "negaux",
+                            "category": "neg",
+                            "tooltip": "negative auxiliary"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "negex",
+                            "category": "neg",
+                            "tooltip": "negative existential"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Other categories"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "adjz",
+                            "category": "cat",
+                            "tooltip": "adjectivizer"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "caradj",
+                            "category": "cat",
+                            "tooltip": "caritive adjective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "indef",
+                            "category": "nmn",
+                            "tooltip": "indefinite particle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "insn",
+                            "category": "cat",
+                            "tooltip": "instrumental nominal"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "vblz",
+                            "category": "cat",
+                            "tooltip": "verbalizer"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "disc",
+                            "category": "disc",
+                            "tooltip": "discourse particle (any)"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc1",
+                            "category": "disc",
+                            "tooltip": "discourse particle 1"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc2",
+                            "category": "disc",
+                            "tooltip": "discourse particle 2"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc3",
+                            "category": "disc",
+                            "tooltip": "discourse particle 3"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc4",
+                            "category": "disc",
+                            "tooltip": "discourse particle 4"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc5",
+                            "category": "disc",
+                            "tooltip": "discourse particle 5"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "disc6",
+                            "category": "disc",
+                            "tooltip": "discourse particle 6"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "intj",
+                            "category": "disc",
+                            "tooltip": "unspecified interjection"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "ep",
+                            "category": "misc",
+                            "tooltip": "epenthetic element"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "qp",
+                            "category": "misc",
+                            "tooltip": "question particle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "unkn",
+                            "category": "misc",
+                            "tooltip": "unknown morpheme"
+                        }
+                    ]
+                ]
+            }
+        },
+        "russian": {
+            "dictionary_categories": [
+                "gender",
+                "proType",
+                "nType",
+                "0"
+            ],
+            "gloss_shortcuts": {
+                "case": "(nom|gen|gen2|dat|acc|acc2|ins|loc|loc2|voc)",
+                "tense": "(praet|fut|praes)"
+            },
+            "gr_fields_order": [
+                "vType",
+                "nType",
+                "numType",
+                "adjType",
+                "proType",
+                "stemType",
+                "num_deriv",
+                "v_form",
+                "aspect",
+                "tense",
+                "person",
+                "number",
+                "case",
+                "abbr",
+                "0",
+                "anno"
+            ],
+            "gramm_selection": {
+                "columns": [
+                    [
+                        {
+                            "type": "header",
+                            "value": "Parts of speech"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "S",
+                            "category": "pos",
+                            "tooltip": "Noun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "V",
+                            "category": "pos",
+                            "tooltip": "Verb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "A",
+                            "category": "pos",
+                            "tooltip": "Adjective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ADV",
+                            "category": "pos",
+                            "tooltip": "Adverb"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "PRAEDIC",
+                            "category": "pos",
+                            "tooltip": "Predicative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "NUM",
+                            "category": "pos",
+                            "tooltip": "Numeral"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ANUM",
+                            "category": "pos",
+                            "tooltip": "Numeral Adjective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "SPRO",
+                            "category": "pos",
+                            "tooltip": "Substantive Pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "APRO",
+                            "category": "pos",
+                            "tooltip": "Adjective Pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ADVPRO",
+                            "category": "pos",
+                            "tooltip": "Adverbial Pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "PRAEDICPRO",
+                            "category": "pos",
+                            "tooltip": "Predicative Pronoun"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "PR",
+                            "category": "pos",
+                            "tooltip": "Preposition"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "CONJ",
+                            "category": "pos",
+                            "tooltip": "Conjunction"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "PART",
+                            "category": "pos",
+                            "tooltip": "Particle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "INTJ",
+                            "category": "pos",
+                            "tooltip": "Interjection"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "INIT",
+                            "category": "pos",
+                            "tooltip": "Initial Letter"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Case"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "nom",
+                            "category": "c",
+                            "tooltip": "Nominative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "gen",
+                            "category": "c",
+                            "tooltip": "Genitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "dat",
+                            "category": "c",
+                            "tooltip": "Dative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "acc",
+                            "category": "c",
+                            "tooltip": "Accusative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ins",
+                            "category": "c",
+                            "tooltip": "Instrumental"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "loc",
+                            "category": "c",
+                            "tooltip": "Locative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "voc",
+                            "category": "c",
+                            "tooltip": "Vocative"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "gen2",
+                            "category": "c",
+                            "tooltip": "2nd Genitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "acc2",
+                            "category": "c",
+                            "tooltip": "2nd Accusative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "loc2",
+                            "category": "c",
+                            "tooltip": "2nd Locative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "adnum",
+                            "category": "c",
+                            "tooltip": "Adnumeral"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Number"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "sg",
+                            "category": "number",
+                            "tooltip": "Singular"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pl",
+                            "category": "number",
+                            "tooltip": "Plural"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Gender"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "m",
+                            "category": "gd",
+                            "tooltip": "Masculine"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "f",
+                            "category": "gd",
+                            "tooltip": "Feminine"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "n",
+                            "category": "gd",
+                            "tooltip": "Neuter"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "mf",
+                            "category": "gd",
+                            "tooltip": "Common"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Animacy"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "anim",
+                            "category": "an",
+                            "tooltip": "Animate"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inan",
+                            "category": "an",
+                            "tooltip": "Inanimate"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Transitivity"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "tran",
+                            "category": "tr",
+                            "tooltip": "Transitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "intr",
+                            "category": "tr",
+                            "tooltip": "Inransitive"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Mood / Verb form"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "indic",
+                            "category": "mood",
+                            "tooltip": "Indicative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "imper",
+                            "category": "v_f",
+                            "tooltip": "Imperative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "imper2",
+                            "category": "v_f",
+                            "tooltip": "Imperative 2"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "inf",
+                            "category": "v_f",
+                            "tooltip": "Infinitive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "partcp",
+                            "category": "v_f",
+                            "tooltip": "Participle"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ger",
+                            "category": "v_f",
+                            "tooltip": "Gerund"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Tense"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "praes",
+                            "category": "t",
+                            "tooltip": "Present"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "fut",
+                            "category": "t",
+                            "tooltip": "Future"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "praet",
+                            "category": "t",
+                            "tooltip": "Past"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Person"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "1p",
+                            "category": "p",
+                            "tooltip": "1st"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "2p",
+                            "category": "p",
+                            "tooltip": "2nd"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "3p",
+                            "category": "p",
+                            "tooltip": "3rd"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Voice"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "act",
+                            "category": "vc",
+                            "tooltip": "Active"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pass",
+                            "category": "vc",
+                            "tooltip": "Passive"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "mid",
+                            "category": "vc",
+                            "tooltip": "Middle"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Aspect"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "pf",
+                            "category": "asp",
+                            "tooltip": "Perfective"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ipf",
+                            "category": "asp",
+                            "tooltip": "Imperfective"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Adjectives"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "comp",
+                            "category": "adj_c",
+                            "tooltip": "Comparative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "comp2",
+                            "category": "adj_c",
+                            "tooltip": "Comparative 2"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "super",
+                            "category": "adj_c",
+                            "tooltip": "Superlative"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "plen",
+                            "category": "adj_f",
+                            "tooltip": "Full form"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "brev",
+                            "category": "adj_f",
+                            "tooltip": "Short form"
+                        },
+                        {
+                            "type": "header",
+                            "value": "Classes of nouns"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "persn",
+                            "category": "nT",
+                            "tooltip": "Name"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "patrn",
+                            "category": "nT",
+                            "tooltip": "Patronymic"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "famn",
+                            "category": "nT",
+                            "tooltip": "Family name"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "zoon",
+                            "category": "nT",
+                            "tooltip": "Zoonym"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "topn",
+                            "category": "nT",
+                            "tooltip": "Toponymic"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "0",
+                            "category": "nT",
+                            "tooltip": "Indeclinable"
+                        }
+                    ],
+                    [
+                        {
+                            "type": "header",
+                            "value": "Other features"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "ciph",
+                            "category": "add",
+                            "tooltip": "Digit"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "anom",
+                            "category": "add",
+                            "tooltip": "Anomalous form"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "distort",
+                            "category": "add",
+                            "tooltip": "Distortion"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "abbr",
+                            "category": "add",
+                            "tooltip": "Abbreviation"
+                        },
+                        {"type": "separator"},
+                        {
+                            "type": "gramm",
+                            "value": "norm",
+                            "category": "add",
+                            "tooltip": "Word in dictionary"
+                        },
+                        {
+                            "type": "gramm",
+                            "value": "bastard",
+                            "category": "add",
+                            "tooltip": "Word not in dictionary"
+                        }
+                    ]
+                ]
+            }
+        }
+    }
+}
