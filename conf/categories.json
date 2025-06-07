@@ -68,12 +68,16 @@
     "itg": "prontype",
     "dem": "prontype",
     "ord": "prontype",
+    "ind": "prontype",
 
     "top": "nametype",
     "ant": "nametype",
     "cog": "nametype",
     "pat": "nametype",
-    "al": "nametype"
+    "al": "nametype",
+
+    "subst": "other",
+    "attr": "other"
   },
   "kamas_phon": {},
   "russian": {},
