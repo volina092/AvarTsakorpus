@@ -12,3 +12,4 @@ def tajik_input_normal(field, text):
     text = text.replace('у1', 'ӯ')
     text = text.replace('г1', 'ғ')
     return text
+
