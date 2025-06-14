@@ -1,0 +1,656 @@
+{
+    "meta": {
+        "filename": "wiki_Dianthus awaricus.json",
+        "title": "Dianthus awaricus",
+        "author": "",
+        "year": "2020",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "Dianthus awaricus — гӀемерсонилаб бижунжо , Dianthus хъизамул регӀазул цояб , мугӀрузулаб Дагъистаналъул ( Авариялъул ) эндемиклъун кколеб .",
+            "words": [
+                {
+                    "wf": "Dianthus",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "awaricus",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гӀемерсонилаб",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 33,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "бижунжо",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 41,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 42,
+                    "off_end": 43,
+                    "next_word": 6
+                },
+                {
+                    "wf": "Dianthus",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 7,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "хъизамул",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 61,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "регӀазул",
+                    "wtype": "word",
+                    "off_start": 62,
+                    "off_end": 70,
+                    "next_word": 9,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "цояб",
+                    "wtype": "word",
+                    "off_start": 71,
+                    "off_end": 75,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "цо",
+                            "gr.tags": [],
+                            "trans_ru": "один",
+                            "gr.other": "subst",
+                            "gr.case": "nom",
+                            "gr.pos": "num",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 42,
+                    "off_end": 43,
+                    "next_word": 11
+                },
+                {
+                    "wf": "мугӀрузулаб",
+                    "wtype": "word",
+                    "off_start": 78,
+                    "off_end": 89,
+                    "next_word": 12,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "Дагъистаналъул",
+                    "wtype": "word",
+                    "off_start": 90,
+                    "off_end": 104,
+                    "next_word": 13,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "Дагъистан",
+                            "gr.tags": [],
+                            "trans_ru": "Дагестан",
+                            "gr.case": "gen",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 105,
+                    "off_end": 106,
+                    "next_word": 14
+                },
+                {
+                    "wf": "Авариялъул",
+                    "wtype": "word",
+                    "off_start": 107,
+                    "off_end": 117,
+                    "next_word": 15,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "авария",
+                            "gr.tags": [],
+                            "trans_ru": "авария",
+                            "gr.case": "gen",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "Авария",
+                            "gr.tags": [],
+                            "trans_ru": "Авария",
+                            "gr.case": "gen",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 118,
+                    "off_end": 119,
+                    "next_word": 16
+                },
+                {
+                    "wf": "эндемиклъун",
+                    "wtype": "word",
+                    "off_start": 120,
+                    "off_end": 131,
+                    "next_word": 17,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "кколеб",
+                    "wtype": "word",
+                    "off_start": 132,
+                    "off_end": 138,
+                    "next_word": 18,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "кквезе",
+                            "gr.tags": [],
+                            "trans_ru": "держаться",
+                            "gr.v_form_ptcp": "gpr1",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "ккезе",
+                            "gr.tags": [],
+                            "trans_ru": "оказываться",
+                            "gr.v_form_ptcp": "gpr1",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 139,
+                    "off_end": 140,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Dianthus awaricus",
+                "author": ""
+            }
+        },
+        {
+            "text": "ГӀемерсонилаб , борхалъи букӀуна 15 – 50 см , тӀанхазул ххалалъи 4 – 6 см , щурмил 20 – 30 мм .",
+            "words": [
+                {
+                    "wf": "ГӀемерсонилаб",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 13,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 14,
+                    "off_end": 15,
+                    "next_word": 2
+                },
+                {
+                    "wf": "борхалъи",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "букӀуна",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 32,
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "gr.tags": [],
+                            "trans_ru": "быть",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "15",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 35,
+                    "next_word": 5,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "15",
+                            "gr.tags": [],
+                            "trans_ru": "15",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 37,
+                    "next_word": 6,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "50",
+                    "wtype": "word",
+                    "off_start": 38,
+                    "off_end": 40,
+                    "next_word": 7,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "50",
+                            "gr.tags": [],
+                            "trans_ru": "50",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "см",
+                    "wtype": "word",
+                    "off_start": 41,
+                    "off_end": 43,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "см",
+                            "gr.tags": [],
+                            "trans_ru": "см",
+                            "gr.pos": "abbr"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 14,
+                    "off_end": 15,
+                    "next_word": 9
+                },
+                {
+                    "wf": "тӀанхазул",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 55,
+                    "next_word": 10,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "ххалалъи",
+                    "wtype": "word",
+                    "off_start": 56,
+                    "off_end": 64,
+                    "next_word": 11,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "4",
+                    "wtype": "word",
+                    "off_start": 65,
+                    "off_end": 66,
+                    "next_word": 12,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "4",
+                            "gr.tags": [],
+                            "trans_ru": "4",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 37,
+                    "next_word": 13,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "6",
+                    "wtype": "word",
+                    "off_start": 69,
+                    "off_end": 70,
+                    "next_word": 14,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "6",
+                            "gr.tags": [],
+                            "trans_ru": "6",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "см",
+                    "wtype": "word",
+                    "off_start": 41,
+                    "off_end": 43,
+                    "next_word": 15,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "см",
+                            "gr.tags": [],
+                            "trans_ru": "см",
+                            "gr.pos": "abbr"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 14,
+                    "off_end": 15,
+                    "next_word": 16
+                },
+                {
+                    "wf": "щурмил",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 82,
+                    "next_word": 17,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "20",
+                    "wtype": "word",
+                    "off_start": 83,
+                    "off_end": 85,
+                    "next_word": 18,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "20",
+                            "gr.tags": [],
+                            "trans_ru": "20",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 37,
+                    "next_word": 19,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "30",
+                    "wtype": "word",
+                    "off_start": 88,
+                    "off_end": 90,
+                    "next_word": 20,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "30",
+                            "gr.tags": [],
+                            "trans_ru": "30",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "мм",
+                    "wtype": "word",
+                    "off_start": 91,
+                    "off_end": 93,
+                    "next_word": 21,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 94,
+                    "off_end": 95,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Dianthus awaricus",
+                "author": ""
+            }
+        },
+        {
+            "text": "ТӀегьай букӀуна юл — августалда .",
+            "words": [
+                {
+                    "wf": "ТӀегьай",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "букӀуна",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "gr.tags": [],
+                            "trans_ru": "быть",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "юл",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "августалда",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "август",
+                            "gr.tags": [],
+                            "trans_ru": "август",
+                            "gr.case": "loc",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Dianthus awaricus",
+                "author": ""
+            }
+        }
+    ]
+}

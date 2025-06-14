@@ -1,0 +1,639 @@
+{
+    "meta": {
+        "filename": "wiki_2005 сон.json",
+        "title": "2005 сон",
+        "author": "",
+        "year": "2020",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "2005 ( кӀиазаралда щуабилеб ) сон — григорианияб календаралъул щамат къоялъ байбихьараб сон .",
+            "words": [
+                {
+                    "wf": "2005",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "2005",
+                            "gr.tags": [],
+                            "trans_ru": "2005",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2
+                },
+                {
+                    "wf": "кӀиазаралда",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "щуабилеб",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "щуго",
+                            "gr.tags": [],
+                            "trans_ru": "пять",
+                            "gr.prontype": "ord",
+                            "gr.pos": "num",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 28,
+                    "off_end": 29,
+                    "next_word": 5
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 33,
+                    "next_word": 6,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "григорианияб",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 48,
+                    "next_word": 8,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "календаралъул",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 62,
+                    "next_word": 9,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "календарь",
+                            "gr.tags": [],
+                            "trans_ru": "календарь",
+                            "gr.case": "gen",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "щамат",
+                    "wtype": "word",
+                    "off_start": 63,
+                    "off_end": 68,
+                    "next_word": 10,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "къоялъ",
+                    "wtype": "word",
+                    "off_start": 69,
+                    "off_end": 75,
+                    "next_word": 11,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "къо",
+                            "gr.tags": [],
+                            "trans_ru": "день",
+                            "gr.case": "erg",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "байбихьараб",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 12,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "байбихьизе",
+                            "gr.tags": [],
+                            "trans_ru": "начаться",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "байбихьизе",
+                            "gr.tags": [],
+                            "trans_ru": "начаться",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 33,
+                    "next_word": 13,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 92,
+                    "off_end": 93,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "2005 сон",
+                "author": ""
+            }
+        },
+        {
+            "text": "Гьеб ккола нилъер рикӀкӀеналъул 2005 сон , лъабабилеб азарсоналъул 5 сон , хХӀ гӀасруялъул 5 сон , хХӀ гӀасруялъул кӀиабилеб анцӀсоналъул 5 - леб сон .",
+            "words": [
+                {
+                    "wf": "Гьеб",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 21,
+                    "ana": [
+                        {
+                            "lex": "гьеб",
+                            "gr.tags": [],
+                            "trans_ru": "то",
+                            "gr.prontype": "dem",
+                            "gr.case": "nom",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "гьеб\\<det\\>",
+                            "gr.tags": [],
+                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>",
+                            "gr.prontype": "dem",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ккола",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 20,
+                    "ana": [
+                        {
+                            "lex": "ккезе",
+                            "gr.tags": [],
+                            "trans_ru": "оказываться",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor"
+                        },
+                        {
+                            "lex": "кквезе",
+                            "gr.tags": [],
+                            "trans_ru": "держаться",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor"
+                        }
+                    ]
+                },
+                {
+                    "wf": "нилъер",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 17,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 19,
+                    "ana": [
+                        {
+                            "lex": "нилъ",
+                            "gr.tags": [
+                                "p1i"
+                            ],
+                            "trans_ru": "мы",
+                            "gr.prontype": "pers",
+                            "gr.case": "gen",
+                            "gr.pos": "prn",
+                            "gr.num": "pl"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рикӀкӀеналъул",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "2005",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 36,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "lex": "2005",
+                            "gr.tags": [],
+                            "trans_ru": "2005",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 40,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "next_word": 7
+                },
+                {
+                    "wf": "лъабабилеб",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 53,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "лъабго",
+                            "gr.tags": [],
+                            "trans_ru": "три",
+                            "gr.prontype": "ord",
+                            "gr.pos": "num",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "азарсоналъул",
+                    "wtype": "word",
+                    "off_start": 54,
+                    "off_end": 66,
+                    "next_word": 9,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "5",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "5",
+                            "gr.tags": [],
+                            "trans_ru": "5",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 40,
+                    "next_word": 11,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "next_word": 12
+                },
+                {
+                    "wf": "хХӀ",
+                    "wtype": "word",
+                    "off_start": 75,
+                    "off_end": 78,
+                    "next_word": 13,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "гӀасруялъул",
+                    "wtype": "word",
+                    "off_start": 79,
+                    "off_end": 90,
+                    "next_word": 14,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "гӏасру",
+                            "gr.tags": [],
+                            "trans_ru": "век",
+                            "gr.case": "gen",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "5",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "next_word": 15,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "5",
+                            "gr.tags": [],
+                            "trans_ru": "5",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 40,
+                    "next_word": 16,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "next_word": 17
+                },
+                {
+                    "wf": "хХӀ",
+                    "wtype": "word",
+                    "off_start": 75,
+                    "off_end": 78,
+                    "next_word": 18,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "гӀасруялъул",
+                    "wtype": "word",
+                    "off_start": 79,
+                    "off_end": 90,
+                    "next_word": 19,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "гӏасру",
+                            "gr.tags": [],
+                            "trans_ru": "век",
+                            "gr.case": "gen",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кӀиабилеб",
+                    "wtype": "word",
+                    "off_start": 115,
+                    "off_end": 124,
+                    "next_word": 20,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "кӏиго",
+                            "gr.tags": [],
+                            "trans_ru": "два",
+                            "gr.prontype": "ord",
+                            "gr.pos": "num",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "анцӀсоналъул",
+                    "wtype": "word",
+                    "off_start": 125,
+                    "off_end": 137,
+                    "next_word": 21,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "5",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "next_word": 22,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "5",
+                            "gr.tags": [],
+                            "trans_ru": "5",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 140,
+                    "off_end": 141,
+                    "next_word": 23
+                },
+                {
+                    "wf": "леб",
+                    "wtype": "word",
+                    "off_start": 50,
+                    "off_end": 53,
+                    "next_word": 24,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 40,
+                    "next_word": 25,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "gr.tags": [],
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 150,
+                    "off_end": 151,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "2005 сон",
+                "author": ""
+            }
+        }
+    ]
+}
