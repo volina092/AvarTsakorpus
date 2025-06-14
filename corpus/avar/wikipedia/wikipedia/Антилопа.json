@@ -1,0 +1,2416 @@
+{
+    "meta": {
+        "filename": "wiki_Антилопа.json",
+        "title": "Антилопа",
+        "author": "",
+        "year": "2020",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "Антилопа — хӀайван .",
+            "words": [
+                {
+                    "wf": "Антилопа",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "антилопа",
+                            "trans_ru": "антилопа",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "хӀайван",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "хӏайван",
+                            "trans_ru": "скотина",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Ал-ХӀакиму",
+                "author": ""
+            }
+        },
+        {
+            "text": "Tetracerus quadricornis – 4 лъар антилопа BoseӀарhus tragocamelus – Нильгау TrageӀарhus eurycerus – Бонго TrageӀарhus strepsiceros – КӀудияб куду TrageӀарhus scriptus – Бушбок TrageӀарhus imberbis – ГьитӀинаб куду TrageӀарhus buxtoni – МегӀер ньяла TrageӀарhus angasii – Ньяла TrageӀарhus spekeii – Ситатунга Taurotragus oryx – Канна Taurotragus derbianus – БакътӀерхьул канна Hippotragus niger – ЧӀегӀераб антилопа Oryx gazelӀа – Орикс Oryx Ӏеucoryx – ГӀарабистаналъул орикс Addax nasomacuӀаtus – Аддакс AntiӀорe cervicapra – Гарна Ammodorcas cӀаrkei – Дибатаг Litocranius walӀеri – Геренук GazelӀа bennettii – Чинкара GazelӀа dorcas – Газель - доркас GazelӀа gazelӀа – Газель GazelӀа cuvieri – Газель - эдми GazelӀа subgutturosa – Жайран Nanger dama – Газель - дама Nanger soemmeringii – Сомалиялъул газель Antidorcas marsupialis – Спрингбок Procapra gutturosa – Дзерен Saiga tatarica – Сайга Neotragus moschatus – Суни Ourebia ourebi – Ориби Raphicerus campestris – Стенбок Raphicerus meӀаnotis – Югалъулаб грисбок Raphicerus sharpei – Северияб грисбок Kobus kob – Коб Kobus Ӏесhe – Личи Kobus vardonii – Пуку Aepyceros meӀаmpus – Импала Beatragus hunteri – Хирола Damaliscus lunatus – Топи AlceӀарhus buseӀарhus – Конгони AlceӀарhus caama – БагӀараб бубал Connochaetes gnou – ЧӀегӀераб гну яги ХъахӀаб рачӀ гну Connochaetes taurinus – ХъахӀилаб гну",
+            "words": [
+                {
+                    "wf": "Tetracerus",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 193
+                },
+                {
+                    "wf": "quadricornis",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 23,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 192
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 191,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "4",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 190,
+                    "ana": [
+                        {
+                            "lex": "4",
+                            "trans_ru": "4",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "лъар",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 189,
+                    "ana": [
+                        {
+                            "lex": "лъар",
+                            "trans_ru": "река",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "антилопа",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 41,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 188,
+                    "ana": [
+                        {
+                            "lex": "антилопа",
+                            "trans_ru": "антилопа",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "BoseӀарhus",
+                    "wtype": "word",
+                    "off_start": 42,
+                    "off_end": 52,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 187
+                },
+                {
+                    "wf": "tragocamelus",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 65,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 186
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 185,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Нильгау",
+                    "wtype": "word",
+                    "off_start": 68,
+                    "off_end": 75,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 184
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 183
+                },
+                {
+                    "wf": "eurycerus",
+                    "wtype": "word",
+                    "off_start": 88,
+                    "off_end": 97,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 182
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 181,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Бонго",
+                    "wtype": "word",
+                    "off_start": 100,
+                    "off_end": 105,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 180
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 179
+                },
+                {
+                    "wf": "strepsiceros",
+                    "wtype": "word",
+                    "off_start": 118,
+                    "off_end": 130,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 178
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 17,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 177,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "КӀудияб",
+                    "wtype": "word",
+                    "off_start": 133,
+                    "off_end": 140,
+                    "next_word": 18,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 176,
+                    "ana": [
+                        {
+                            "lex": "кӏудияб",
+                            "trans_ru": "большое",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "куду",
+                    "wtype": "word",
+                    "off_start": 141,
+                    "off_end": 145,
+                    "next_word": 19,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 175
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 20,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 174
+                },
+                {
+                    "wf": "scriptus",
+                    "wtype": "word",
+                    "off_start": 158,
+                    "off_end": 166,
+                    "next_word": 21,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 173
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 22,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 172,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Бушбок",
+                    "wtype": "word",
+                    "off_start": 169,
+                    "off_end": 175,
+                    "next_word": 23,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 171
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 24,
+                    "sentence_index": 23,
+                    "sentence_index_neg": 170
+                },
+                {
+                    "wf": "imberbis",
+                    "wtype": "word",
+                    "off_start": 188,
+                    "off_end": 196,
+                    "next_word": 25,
+                    "sentence_index": 24,
+                    "sentence_index_neg": 169
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 26,
+                    "sentence_index": 25,
+                    "sentence_index_neg": 168,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ГьитӀинаб",
+                    "wtype": "word",
+                    "off_start": 199,
+                    "off_end": 208,
+                    "next_word": 27,
+                    "sentence_index": 26,
+                    "sentence_index_neg": 167,
+                    "ana": [
+                        {
+                            "lex": "гьитӏинаб",
+                            "trans_ru": "маленький",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "куду",
+                    "wtype": "word",
+                    "off_start": 141,
+                    "off_end": 145,
+                    "next_word": 28,
+                    "sentence_index": 27,
+                    "sentence_index_neg": 166
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 29,
+                    "sentence_index": 28,
+                    "sentence_index_neg": 165
+                },
+                {
+                    "wf": "buxtoni",
+                    "wtype": "word",
+                    "off_start": 226,
+                    "off_end": 233,
+                    "next_word": 30,
+                    "sentence_index": 29,
+                    "sentence_index_neg": 164
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 31,
+                    "sentence_index": 30,
+                    "sentence_index_neg": 163,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "МегӀер",
+                    "wtype": "word",
+                    "off_start": 236,
+                    "off_end": 242,
+                    "next_word": 32,
+                    "sentence_index": 31,
+                    "sentence_index_neg": 162,
+                    "ana": [
+                        {
+                            "lex": "мегӏер",
+                            "trans_ru": "гора",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ньяла",
+                    "wtype": "word",
+                    "off_start": 243,
+                    "off_end": 248,
+                    "next_word": 33,
+                    "sentence_index": 32,
+                    "sentence_index_neg": 161
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 34,
+                    "sentence_index": 33,
+                    "sentence_index_neg": 160
+                },
+                {
+                    "wf": "angasii",
+                    "wtype": "word",
+                    "off_start": 261,
+                    "off_end": 268,
+                    "next_word": 35,
+                    "sentence_index": 34,
+                    "sentence_index_neg": 159
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 36,
+                    "sentence_index": 35,
+                    "sentence_index_neg": 158,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Ньяла",
+                    "wtype": "word",
+                    "off_start": 271,
+                    "off_end": 276,
+                    "next_word": 37,
+                    "sentence_index": 36,
+                    "sentence_index_neg": 157
+                },
+                {
+                    "wf": "TrageӀарhus",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 87,
+                    "next_word": 38,
+                    "sentence_index": 37,
+                    "sentence_index_neg": 156
+                },
+                {
+                    "wf": "spekeii",
+                    "wtype": "word",
+                    "off_start": 289,
+                    "off_end": 296,
+                    "next_word": 39,
+                    "sentence_index": 38,
+                    "sentence_index_neg": 155
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 40,
+                    "sentence_index": 39,
+                    "sentence_index_neg": 154,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Ситатунга",
+                    "wtype": "word",
+                    "off_start": 299,
+                    "off_end": 308,
+                    "next_word": 41,
+                    "sentence_index": 40,
+                    "sentence_index_neg": 153
+                },
+                {
+                    "wf": "Taurotragus",
+                    "wtype": "word",
+                    "off_start": 309,
+                    "off_end": 320,
+                    "next_word": 42,
+                    "sentence_index": 41,
+                    "sentence_index_neg": 152
+                },
+                {
+                    "wf": "oryx",
+                    "wtype": "word",
+                    "off_start": 321,
+                    "off_end": 325,
+                    "next_word": 43,
+                    "sentence_index": 42,
+                    "sentence_index_neg": 151
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 44,
+                    "sentence_index": 43,
+                    "sentence_index_neg": 150,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Канна",
+                    "wtype": "word",
+                    "off_start": 328,
+                    "off_end": 333,
+                    "next_word": 45,
+                    "sentence_index": 44,
+                    "sentence_index_neg": 149
+                },
+                {
+                    "wf": "Taurotragus",
+                    "wtype": "word",
+                    "off_start": 309,
+                    "off_end": 320,
+                    "next_word": 46,
+                    "sentence_index": 45,
+                    "sentence_index_neg": 148
+                },
+                {
+                    "wf": "derbianus",
+                    "wtype": "word",
+                    "off_start": 346,
+                    "off_end": 355,
+                    "next_word": 47,
+                    "sentence_index": 46,
+                    "sentence_index_neg": 147
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 48,
+                    "sentence_index": 47,
+                    "sentence_index_neg": 146,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "БакътӀерхьул",
+                    "wtype": "word",
+                    "off_start": 358,
+                    "off_end": 370,
+                    "next_word": 49,
+                    "sentence_index": 48,
+                    "sentence_index_neg": 145,
+                    "ana": [
+                        {
+                            "lex": "бакътӏерхьул",
+                            "trans_ru": "западный",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "канна",
+                    "wtype": "word",
+                    "off_start": 371,
+                    "off_end": 376,
+                    "next_word": 50,
+                    "sentence_index": 49,
+                    "sentence_index_neg": 144
+                },
+                {
+                    "wf": "Hippotragus",
+                    "wtype": "word",
+                    "off_start": 377,
+                    "off_end": 388,
+                    "next_word": 51,
+                    "sentence_index": 50,
+                    "sentence_index_neg": 143
+                },
+                {
+                    "wf": "niger",
+                    "wtype": "word",
+                    "off_start": 389,
+                    "off_end": 394,
+                    "next_word": 52,
+                    "sentence_index": 51,
+                    "sentence_index_neg": 142
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 53,
+                    "sentence_index": 52,
+                    "sentence_index_neg": 141,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ЧӀегӀераб",
+                    "wtype": "word",
+                    "off_start": 397,
+                    "off_end": 406,
+                    "next_word": 54,
+                    "sentence_index": 53,
+                    "sentence_index_neg": 140,
+                    "ana": [
+                        {
+                            "lex": "чӏегӏераб",
+                            "trans_ru": "чёрный",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "антилопа",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 41,
+                    "next_word": 55,
+                    "sentence_index": 54,
+                    "sentence_index_neg": 139,
+                    "ana": [
+                        {
+                            "lex": "антилопа",
+                            "trans_ru": "антилопа",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Oryx",
+                    "wtype": "word",
+                    "off_start": 416,
+                    "off_end": 420,
+                    "next_word": 56,
+                    "sentence_index": 55,
+                    "sentence_index_neg": 138
+                },
+                {
+                    "wf": "gazelӀа",
+                    "wtype": "word",
+                    "off_start": 421,
+                    "off_end": 428,
+                    "next_word": 57,
+                    "sentence_index": 56,
+                    "sentence_index_neg": 137
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 58,
+                    "sentence_index": 57,
+                    "sentence_index_neg": 136,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Орикс",
+                    "wtype": "word",
+                    "off_start": 431,
+                    "off_end": 436,
+                    "next_word": 59,
+                    "sentence_index": 58,
+                    "sentence_index_neg": 135
+                },
+                {
+                    "wf": "Oryx",
+                    "wtype": "word",
+                    "off_start": 416,
+                    "off_end": 420,
+                    "next_word": 60,
+                    "sentence_index": 59,
+                    "sentence_index_neg": 134
+                },
+                {
+                    "wf": "Ӏеucoryx",
+                    "wtype": "word",
+                    "off_start": 442,
+                    "off_end": 450,
+                    "next_word": 61,
+                    "sentence_index": 60,
+                    "sentence_index_neg": 133
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 62,
+                    "sentence_index": 61,
+                    "sentence_index_neg": 132,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ГӀарабистаналъул",
+                    "wtype": "word",
+                    "off_start": 453,
+                    "off_end": 469,
+                    "next_word": 63,
+                    "sentence_index": 62,
+                    "sentence_index_neg": 131,
+                    "ana": [
+                        {
+                            "lex": "ГӀарабистан",
+                            "trans_ru": "Арабия",
+                            "gr.case": "gen",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": "орикс",
+                    "wtype": "word",
+                    "off_start": 470,
+                    "off_end": 475,
+                    "next_word": 64,
+                    "sentence_index": 63,
+                    "sentence_index_neg": 130
+                },
+                {
+                    "wf": "Addax",
+                    "wtype": "word",
+                    "off_start": 476,
+                    "off_end": 481,
+                    "next_word": 65,
+                    "sentence_index": 64,
+                    "sentence_index_neg": 129
+                },
+                {
+                    "wf": "nasomacuӀаtus",
+                    "wtype": "word",
+                    "off_start": 482,
+                    "off_end": 495,
+                    "next_word": 66,
+                    "sentence_index": 65,
+                    "sentence_index_neg": 128
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 67,
+                    "sentence_index": 66,
+                    "sentence_index_neg": 127,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Аддакс",
+                    "wtype": "word",
+                    "off_start": 498,
+                    "off_end": 504,
+                    "next_word": 68,
+                    "sentence_index": 67,
+                    "sentence_index_neg": 126
+                },
+                {
+                    "wf": "AntiӀорe",
+                    "wtype": "word",
+                    "off_start": 505,
+                    "off_end": 513,
+                    "next_word": 69,
+                    "sentence_index": 68,
+                    "sentence_index_neg": 125
+                },
+                {
+                    "wf": "cervicapra",
+                    "wtype": "word",
+                    "off_start": 514,
+                    "off_end": 524,
+                    "next_word": 70,
+                    "sentence_index": 69,
+                    "sentence_index_neg": 124
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 71,
+                    "sentence_index": 70,
+                    "sentence_index_neg": 123,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Гарна",
+                    "wtype": "word",
+                    "off_start": 527,
+                    "off_end": 532,
+                    "next_word": 72,
+                    "sentence_index": 71,
+                    "sentence_index_neg": 122
+                },
+                {
+                    "wf": "Ammodorcas",
+                    "wtype": "word",
+                    "off_start": 533,
+                    "off_end": 543,
+                    "next_word": 73,
+                    "sentence_index": 72,
+                    "sentence_index_neg": 121
+                },
+                {
+                    "wf": "cӀаrkei",
+                    "wtype": "word",
+                    "off_start": 544,
+                    "off_end": 551,
+                    "next_word": 74,
+                    "sentence_index": 73,
+                    "sentence_index_neg": 120
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 75,
+                    "sentence_index": 74,
+                    "sentence_index_neg": 119,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Дибатаг",
+                    "wtype": "word",
+                    "off_start": 554,
+                    "off_end": 561,
+                    "next_word": 76,
+                    "sentence_index": 75,
+                    "sentence_index_neg": 118
+                },
+                {
+                    "wf": "Litocranius",
+                    "wtype": "word",
+                    "off_start": 562,
+                    "off_end": 573,
+                    "next_word": 77,
+                    "sentence_index": 76,
+                    "sentence_index_neg": 117
+                },
+                {
+                    "wf": "walӀеri",
+                    "wtype": "word",
+                    "off_start": 574,
+                    "off_end": 581,
+                    "next_word": 78,
+                    "sentence_index": 77,
+                    "sentence_index_neg": 116
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 79,
+                    "sentence_index": 78,
+                    "sentence_index_neg": 115,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Геренук",
+                    "wtype": "word",
+                    "off_start": 584,
+                    "off_end": 591,
+                    "next_word": 80,
+                    "sentence_index": 79,
+                    "sentence_index_neg": 114
+                },
+                {
+                    "wf": "GazelӀа",
+                    "wtype": "word",
+                    "off_start": 592,
+                    "off_end": 599,
+                    "next_word": 81,
+                    "sentence_index": 80,
+                    "sentence_index_neg": 113
+                },
+                {
+                    "wf": "bennettii",
+                    "wtype": "word",
+                    "off_start": 600,
+                    "off_end": 609,
+                    "next_word": 82,
+                    "sentence_index": 81,
+                    "sentence_index_neg": 112
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 83,
+                    "sentence_index": 82,
+                    "sentence_index_neg": 111,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Чинкара",
+                    "wtype": "word",
+                    "off_start": 612,
+                    "off_end": 619,
+                    "next_word": 84,
+                    "sentence_index": 83,
+                    "sentence_index_neg": 110
+                },
+                {
+                    "wf": "GazelӀа",
+                    "wtype": "word",
+                    "off_start": 592,
+                    "off_end": 599,
+                    "next_word": 85,
+                    "sentence_index": 84,
+                    "sentence_index_neg": 109
+                },
+                {
+                    "wf": "dorcas",
+                    "wtype": "word",
+                    "off_start": 537,
+                    "off_end": 543,
+                    "next_word": 86,
+                    "sentence_index": 85,
+                    "sentence_index_neg": 108
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 87,
+                    "sentence_index": 86,
+                    "sentence_index_neg": 107,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Газель",
+                    "wtype": "word",
+                    "off_start": 637,
+                    "off_end": 643,
+                    "next_word": 88,
+                    "sentence_index": 87,
+                    "sentence_index_neg": 106
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 644,
+                    "off_end": 645,
+                    "next_word": 89
+                },
+                {
+                    "wf": "доркас",
+                    "wtype": "word",
+                    "off_start": 646,
+                    "off_end": 652,
+                    "next_word": 90,
+                    "sentence_index": 88,
+                    "sentence_index_neg": 105
+                },
+                {
+                    "wf": "GazelӀа",
+                    "wtype": "word",
+                    "off_start": 592,
+                    "off_end": 599,
+                    "next_word": 91,
+                    "sentence_index": 89,
+                    "sentence_index_neg": 104
+                },
+                {
+                    "wf": "gazelӀа",
+                    "wtype": "word",
+                    "off_start": 421,
+                    "off_end": 428,
+                    "next_word": 92,
+                    "sentence_index": 90,
+                    "sentence_index_neg": 103
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 93,
+                    "sentence_index": 91,
+                    "sentence_index_neg": 102,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Газель",
+                    "wtype": "word",
+                    "off_start": 637,
+                    "off_end": 643,
+                    "next_word": 94,
+                    "sentence_index": 92,
+                    "sentence_index_neg": 101
+                },
+                {
+                    "wf": "GazelӀа",
+                    "wtype": "word",
+                    "off_start": 592,
+                    "off_end": 599,
+                    "next_word": 95,
+                    "sentence_index": 93,
+                    "sentence_index_neg": 100
+                },
+                {
+                    "wf": "cuvieri",
+                    "wtype": "word",
+                    "off_start": 686,
+                    "off_end": 693,
+                    "next_word": 96,
+                    "sentence_index": 94,
+                    "sentence_index_neg": 99
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 97,
+                    "sentence_index": 95,
+                    "sentence_index_neg": 98,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Газель",
+                    "wtype": "word",
+                    "off_start": 637,
+                    "off_end": 643,
+                    "next_word": 98,
+                    "sentence_index": 96,
+                    "sentence_index_neg": 97
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 644,
+                    "off_end": 645,
+                    "next_word": 99
+                },
+                {
+                    "wf": "эдми",
+                    "wtype": "word",
+                    "off_start": 705,
+                    "off_end": 709,
+                    "next_word": 100,
+                    "sentence_index": 97,
+                    "sentence_index_neg": 96
+                },
+                {
+                    "wf": "GazelӀа",
+                    "wtype": "word",
+                    "off_start": 592,
+                    "off_end": 599,
+                    "next_word": 101,
+                    "sentence_index": 98,
+                    "sentence_index_neg": 95
+                },
+                {
+                    "wf": "subgutturosa",
+                    "wtype": "word",
+                    "off_start": 718,
+                    "off_end": 730,
+                    "next_word": 102,
+                    "sentence_index": 99,
+                    "sentence_index_neg": 94
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 103,
+                    "sentence_index": 100,
+                    "sentence_index_neg": 93,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Жайран",
+                    "wtype": "word",
+                    "off_start": 733,
+                    "off_end": 739,
+                    "next_word": 104,
+                    "sentence_index": 101,
+                    "sentence_index_neg": 92,
+                    "ana": [
+                        {
+                            "lex": "жайран",
+                            "trans_ru": "газель",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Nanger",
+                    "wtype": "word",
+                    "off_start": 740,
+                    "off_end": 746,
+                    "next_word": 105,
+                    "sentence_index": 102,
+                    "sentence_index_neg": 91
+                },
+                {
+                    "wf": "dama",
+                    "wtype": "word",
+                    "off_start": 747,
+                    "off_end": 751,
+                    "next_word": 106,
+                    "sentence_index": 103,
+                    "sentence_index_neg": 90
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 107,
+                    "sentence_index": 104,
+                    "sentence_index_neg": 89,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Газель",
+                    "wtype": "word",
+                    "off_start": 637,
+                    "off_end": 643,
+                    "next_word": 108,
+                    "sentence_index": 105,
+                    "sentence_index_neg": 88
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 644,
+                    "off_end": 645,
+                    "next_word": 109
+                },
+                {
+                    "wf": "дама",
+                    "wtype": "word",
+                    "off_start": 763,
+                    "off_end": 767,
+                    "next_word": 110,
+                    "sentence_index": 106,
+                    "sentence_index_neg": 87,
+                    "ana": [
+                        {
+                            "lex": "дама",
+                            "trans_ru": "дамка",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Nanger",
+                    "wtype": "word",
+                    "off_start": 740,
+                    "off_end": 746,
+                    "next_word": 111,
+                    "sentence_index": 107,
+                    "sentence_index_neg": 86
+                },
+                {
+                    "wf": "soemmeringii",
+                    "wtype": "word",
+                    "off_start": 775,
+                    "off_end": 787,
+                    "next_word": 112,
+                    "sentence_index": 108,
+                    "sentence_index_neg": 85
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 113,
+                    "sentence_index": 109,
+                    "sentence_index_neg": 84,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Сомалиялъул",
+                    "wtype": "word",
+                    "off_start": 790,
+                    "off_end": 801,
+                    "next_word": 114,
+                    "sentence_index": 110,
+                    "sentence_index_neg": 83
+                },
+                {
+                    "wf": "газель",
+                    "wtype": "word",
+                    "off_start": 802,
+                    "off_end": 808,
+                    "next_word": 115,
+                    "sentence_index": 111,
+                    "sentence_index_neg": 82
+                },
+                {
+                    "wf": "Antidorcas",
+                    "wtype": "word",
+                    "off_start": 809,
+                    "off_end": 819,
+                    "next_word": 116,
+                    "sentence_index": 112,
+                    "sentence_index_neg": 81
+                },
+                {
+                    "wf": "marsupialis",
+                    "wtype": "word",
+                    "off_start": 820,
+                    "off_end": 831,
+                    "next_word": 117,
+                    "sentence_index": 113,
+                    "sentence_index_neg": 80
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 118,
+                    "sentence_index": 114,
+                    "sentence_index_neg": 79,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Спрингбок",
+                    "wtype": "word",
+                    "off_start": 834,
+                    "off_end": 843,
+                    "next_word": 119,
+                    "sentence_index": 115,
+                    "sentence_index_neg": 78
+                },
+                {
+                    "wf": "Procapra",
+                    "wtype": "word",
+                    "off_start": 844,
+                    "off_end": 852,
+                    "next_word": 120,
+                    "sentence_index": 116,
+                    "sentence_index_neg": 77
+                },
+                {
+                    "wf": "gutturosa",
+                    "wtype": "word",
+                    "off_start": 721,
+                    "off_end": 730,
+                    "next_word": 121,
+                    "sentence_index": 117,
+                    "sentence_index_neg": 76
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 122,
+                    "sentence_index": 118,
+                    "sentence_index_neg": 75,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Дзерен",
+                    "wtype": "word",
+                    "off_start": 865,
+                    "off_end": 871,
+                    "next_word": 123,
+                    "sentence_index": 119,
+                    "sentence_index_neg": 74
+                },
+                {
+                    "wf": "Saiga",
+                    "wtype": "word",
+                    "off_start": 872,
+                    "off_end": 877,
+                    "next_word": 124,
+                    "sentence_index": 120,
+                    "sentence_index_neg": 73
+                },
+                {
+                    "wf": "tatarica",
+                    "wtype": "word",
+                    "off_start": 878,
+                    "off_end": 886,
+                    "next_word": 125,
+                    "sentence_index": 121,
+                    "sentence_index_neg": 72
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 126,
+                    "sentence_index": 122,
+                    "sentence_index_neg": 71,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Сайга",
+                    "wtype": "word",
+                    "off_start": 889,
+                    "off_end": 894,
+                    "next_word": 127,
+                    "sentence_index": 123,
+                    "sentence_index_neg": 70
+                },
+                {
+                    "wf": "Neotragus",
+                    "wtype": "word",
+                    "off_start": 895,
+                    "off_end": 904,
+                    "next_word": 128,
+                    "sentence_index": 124,
+                    "sentence_index_neg": 69
+                },
+                {
+                    "wf": "moschatus",
+                    "wtype": "word",
+                    "off_start": 905,
+                    "off_end": 914,
+                    "next_word": 129,
+                    "sentence_index": 125,
+                    "sentence_index_neg": 68
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 130,
+                    "sentence_index": 126,
+                    "sentence_index_neg": 67,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Суни",
+                    "wtype": "word",
+                    "off_start": 917,
+                    "off_end": 921,
+                    "next_word": 131,
+                    "sentence_index": 127,
+                    "sentence_index_neg": 66,
+                    "ana": [
+                        {
+                            "lex": "сузе",
+                            "trans_ru": "*сузе",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "past"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Ourebia",
+                    "wtype": "word",
+                    "off_start": 922,
+                    "off_end": 929,
+                    "next_word": 132,
+                    "sentence_index": 128,
+                    "sentence_index_neg": 65
+                },
+                {
+                    "wf": "ourebi",
+                    "wtype": "word",
+                    "off_start": 930,
+                    "off_end": 936,
+                    "next_word": 133,
+                    "sentence_index": 129,
+                    "sentence_index_neg": 64
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 134,
+                    "sentence_index": 130,
+                    "sentence_index_neg": 63,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Ориби",
+                    "wtype": "word",
+                    "off_start": 939,
+                    "off_end": 944,
+                    "next_word": 135,
+                    "sentence_index": 131,
+                    "sentence_index_neg": 62
+                },
+                {
+                    "wf": "Raphicerus",
+                    "wtype": "word",
+                    "off_start": 945,
+                    "off_end": 955,
+                    "next_word": 136,
+                    "sentence_index": 132,
+                    "sentence_index_neg": 61
+                },
+                {
+                    "wf": "campestris",
+                    "wtype": "word",
+                    "off_start": 956,
+                    "off_end": 966,
+                    "next_word": 137,
+                    "sentence_index": 133,
+                    "sentence_index_neg": 60
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 138,
+                    "sentence_index": 134,
+                    "sentence_index_neg": 59,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Стенбок",
+                    "wtype": "word",
+                    "off_start": 969,
+                    "off_end": 976,
+                    "next_word": 139,
+                    "sentence_index": 135,
+                    "sentence_index_neg": 58
+                },
+                {
+                    "wf": "Raphicerus",
+                    "wtype": "word",
+                    "off_start": 945,
+                    "off_end": 955,
+                    "next_word": 140,
+                    "sentence_index": 136,
+                    "sentence_index_neg": 57
+                },
+                {
+                    "wf": "meӀаnotis",
+                    "wtype": "word",
+                    "off_start": 988,
+                    "off_end": 997,
+                    "next_word": 141,
+                    "sentence_index": 137,
+                    "sentence_index_neg": 56
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 142,
+                    "sentence_index": 138,
+                    "sentence_index_neg": 55,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Югалъулаб",
+                    "wtype": "word",
+                    "off_start": 1000,
+                    "off_end": 1009,
+                    "next_word": 143,
+                    "sentence_index": 139,
+                    "sentence_index_neg": 54,
+                    "ana": [
+                        {
+                            "lex": "югалъулаб",
+                            "trans_ru": "югалъулаб",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "грисбок",
+                    "wtype": "word",
+                    "off_start": 1010,
+                    "off_end": 1017,
+                    "next_word": 144,
+                    "sentence_index": 140,
+                    "sentence_index_neg": 53
+                },
+                {
+                    "wf": "Raphicerus",
+                    "wtype": "word",
+                    "off_start": 945,
+                    "off_end": 955,
+                    "next_word": 145,
+                    "sentence_index": 141,
+                    "sentence_index_neg": 52
+                },
+                {
+                    "wf": "sharpei",
+                    "wtype": "word",
+                    "off_start": 1029,
+                    "off_end": 1036,
+                    "next_word": 146,
+                    "sentence_index": 142,
+                    "sentence_index_neg": 51
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 147,
+                    "sentence_index": 143,
+                    "sentence_index_neg": 50,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Северияб",
+                    "wtype": "word",
+                    "off_start": 1039,
+                    "off_end": 1047,
+                    "next_word": 148,
+                    "sentence_index": 144,
+                    "sentence_index_neg": 49,
+                    "ana": [
+                        {
+                            "lex": "северияб",
+                            "trans_ru": "северный",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "грисбок",
+                    "wtype": "word",
+                    "off_start": 1010,
+                    "off_end": 1017,
+                    "next_word": 149,
+                    "sentence_index": 145,
+                    "sentence_index_neg": 48
+                },
+                {
+                    "wf": "Kobus",
+                    "wtype": "word",
+                    "off_start": 1056,
+                    "off_end": 1061,
+                    "next_word": 150,
+                    "sentence_index": 146,
+                    "sentence_index_neg": 47
+                },
+                {
+                    "wf": "kob",
+                    "wtype": "word",
+                    "off_start": 1062,
+                    "off_end": 1065,
+                    "next_word": 151,
+                    "sentence_index": 147,
+                    "sentence_index_neg": 46
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 152,
+                    "sentence_index": 148,
+                    "sentence_index_neg": 45,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Коб",
+                    "wtype": "word",
+                    "off_start": 1068,
+                    "off_end": 1071,
+                    "next_word": 153,
+                    "sentence_index": 149,
+                    "sentence_index_neg": 44
+                },
+                {
+                    "wf": "Kobus",
+                    "wtype": "word",
+                    "off_start": 1056,
+                    "off_end": 1061,
+                    "next_word": 154,
+                    "sentence_index": 150,
+                    "sentence_index_neg": 43
+                },
+                {
+                    "wf": "Ӏесhe",
+                    "wtype": "word",
+                    "off_start": 1078,
+                    "off_end": 1083,
+                    "next_word": 155,
+                    "sentence_index": 151,
+                    "sentence_index_neg": 42
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 156,
+                    "sentence_index": 152,
+                    "sentence_index_neg": 41,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Личи",
+                    "wtype": "word",
+                    "off_start": 1086,
+                    "off_end": 1090,
+                    "next_word": 157,
+                    "sentence_index": 153,
+                    "sentence_index_neg": 40
+                },
+                {
+                    "wf": "Kobus",
+                    "wtype": "word",
+                    "off_start": 1056,
+                    "off_end": 1061,
+                    "next_word": 158,
+                    "sentence_index": 154,
+                    "sentence_index_neg": 39
+                },
+                {
+                    "wf": "vardonii",
+                    "wtype": "word",
+                    "off_start": 1097,
+                    "off_end": 1105,
+                    "next_word": 159,
+                    "sentence_index": 155,
+                    "sentence_index_neg": 38
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 160,
+                    "sentence_index": 156,
+                    "sentence_index_neg": 37,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Пуку",
+                    "wtype": "word",
+                    "off_start": 1108,
+                    "off_end": 1112,
+                    "next_word": 161,
+                    "sentence_index": 157,
+                    "sentence_index_neg": 36
+                },
+                {
+                    "wf": "Aepyceros",
+                    "wtype": "word",
+                    "off_start": 1113,
+                    "off_end": 1122,
+                    "next_word": 162,
+                    "sentence_index": 158,
+                    "sentence_index_neg": 35
+                },
+                {
+                    "wf": "meӀаmpus",
+                    "wtype": "word",
+                    "off_start": 1123,
+                    "off_end": 1131,
+                    "next_word": 163,
+                    "sentence_index": 159,
+                    "sentence_index_neg": 34
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 164,
+                    "sentence_index": 160,
+                    "sentence_index_neg": 33,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Импала",
+                    "wtype": "word",
+                    "off_start": 1134,
+                    "off_end": 1140,
+                    "next_word": 165,
+                    "sentence_index": 161,
+                    "sentence_index_neg": 32
+                },
+                {
+                    "wf": "Beatragus",
+                    "wtype": "word",
+                    "off_start": 1141,
+                    "off_end": 1150,
+                    "next_word": 166,
+                    "sentence_index": 162,
+                    "sentence_index_neg": 31
+                },
+                {
+                    "wf": "hunteri",
+                    "wtype": "word",
+                    "off_start": 1151,
+                    "off_end": 1158,
+                    "next_word": 167,
+                    "sentence_index": 163,
+                    "sentence_index_neg": 30
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 168,
+                    "sentence_index": 164,
+                    "sentence_index_neg": 29,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Хирола",
+                    "wtype": "word",
+                    "off_start": 1161,
+                    "off_end": 1167,
+                    "next_word": 169,
+                    "sentence_index": 165,
+                    "sentence_index_neg": 28
+                },
+                {
+                    "wf": "Damaliscus",
+                    "wtype": "word",
+                    "off_start": 1168,
+                    "off_end": 1178,
+                    "next_word": 170,
+                    "sentence_index": 166,
+                    "sentence_index_neg": 27
+                },
+                {
+                    "wf": "lunatus",
+                    "wtype": "word",
+                    "off_start": 1179,
+                    "off_end": 1186,
+                    "next_word": 171,
+                    "sentence_index": 167,
+                    "sentence_index_neg": 26
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 172,
+                    "sentence_index": 168,
+                    "sentence_index_neg": 25,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Топи",
+                    "wtype": "word",
+                    "off_start": 1189,
+                    "off_end": 1193,
+                    "next_word": 173,
+                    "sentence_index": 169,
+                    "sentence_index_neg": 24
+                },
+                {
+                    "wf": "AlceӀарhus",
+                    "wtype": "word",
+                    "off_start": 1194,
+                    "off_end": 1204,
+                    "next_word": 174,
+                    "sentence_index": 170,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "buseӀарhus",
+                    "wtype": "word",
+                    "off_start": 1205,
+                    "off_end": 1215,
+                    "next_word": 175,
+                    "sentence_index": 171,
+                    "sentence_index_neg": 22
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 176,
+                    "sentence_index": 172,
+                    "sentence_index_neg": 21,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Конгони",
+                    "wtype": "word",
+                    "off_start": 1218,
+                    "off_end": 1225,
+                    "next_word": 177,
+                    "sentence_index": 173,
+                    "sentence_index_neg": 20
+                },
+                {
+                    "wf": "AlceӀарhus",
+                    "wtype": "word",
+                    "off_start": 1194,
+                    "off_end": 1204,
+                    "next_word": 178,
+                    "sentence_index": 174,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": "caama",
+                    "wtype": "word",
+                    "off_start": 1237,
+                    "off_end": 1242,
+                    "next_word": 179,
+                    "sentence_index": 175,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 180,
+                    "sentence_index": 176,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "БагӀараб",
+                    "wtype": "word",
+                    "off_start": 1245,
+                    "off_end": 1253,
+                    "next_word": 181,
+                    "sentence_index": 177,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "багӏараб",
+                            "trans_ru": "красный",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "бубал",
+                    "wtype": "word",
+                    "off_start": 1254,
+                    "off_end": 1259,
+                    "next_word": 182,
+                    "sentence_index": 178,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "Connochaetes",
+                    "wtype": "word",
+                    "off_start": 1260,
+                    "off_end": 1272,
+                    "next_word": 183,
+                    "sentence_index": 179,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "gnou",
+                    "wtype": "word",
+                    "off_start": 1273,
+                    "off_end": 1277,
+                    "next_word": 184,
+                    "sentence_index": 180,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 185,
+                    "sentence_index": 181,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ЧӀегӀераб",
+                    "wtype": "word",
+                    "off_start": 397,
+                    "off_end": 406,
+                    "next_word": 186,
+                    "sentence_index": 182,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "чӏегӏераб",
+                            "trans_ru": "чёрный",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гну",
+                    "wtype": "word",
+                    "off_start": 1290,
+                    "off_end": 1293,
+                    "next_word": 187,
+                    "sentence_index": 183,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "яги",
+                    "wtype": "word",
+                    "off_start": 1294,
+                    "off_end": 1297,
+                    "next_word": 188,
+                    "sentence_index": 184,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "яги",
+                            "trans_ru": "или",
+                            "gr.pos": "cnjcoo"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ХъахӀаб",
+                    "wtype": "word",
+                    "off_start": 1298,
+                    "off_end": 1305,
+                    "next_word": 189,
+                    "sentence_index": 185,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "хъахӏаб",
+                            "trans_ru": "белый",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рачӀ",
+                    "wtype": "word",
+                    "off_start": 1306,
+                    "off_end": 1310,
+                    "next_word": 190,
+                    "sentence_index": 186,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "гну",
+                    "wtype": "word",
+                    "off_start": 1290,
+                    "off_end": 1293,
+                    "next_word": 191,
+                    "sentence_index": 187,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "Connochaetes",
+                    "wtype": "word",
+                    "off_start": 1260,
+                    "off_end": 1272,
+                    "next_word": 192,
+                    "sentence_index": 188,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "taurinus",
+                    "wtype": "word",
+                    "off_start": 1328,
+                    "off_end": 1336,
+                    "next_word": 193,
+                    "sentence_index": 189,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "–",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "next_word": 194,
+                    "sentence_index": 190,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "–",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "–"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ХъахӀилаб",
+                    "wtype": "word",
+                    "off_start": 1339,
+                    "off_end": 1348,
+                    "next_word": 195,
+                    "sentence_index": 191,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "хъахӏилаб",
+                            "trans_ru": "синий",
+                            "gr.pos": "adj",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гну",
+                    "wtype": "word",
+                    "off_start": 1290,
+                    "off_end": 1293,
+                    "next_word": null,
+                    "sentence_index": 192,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Ал-ХӀакиму",
+                "author": ""
+            }
+        }
+    ]
+}

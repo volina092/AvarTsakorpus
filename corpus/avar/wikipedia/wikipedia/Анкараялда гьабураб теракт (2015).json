@@ -1,0 +1,1082 @@
+{
+    "meta": {
+        "filename": "wiki_Анкараялда гьабураб теракт (2015).json",
+        "title": "Анкараялда гьабураб теракт (2015)",
+        "author": "",
+        "year": "2020",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "Анкараялда 2015 соналъ гьабураб терроралъулаб акт — ккола , Турциялъул тахшагьар Анкараялда цоцада хадуб , 2015 соналъул 10 октябралъ радал сагӀат 10 : 05 минут араб мехалъ ккараб кӀиго кьвагьи .",
+            "words": [
+                {
+                    "wf": "Анкараялда",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 28,
+                    "ana": [
+                        {
+                            "lex": "Анкара",
+                            "trans_ru": "Анкара",
+                            "gr.case": "loc",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": "2015",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 27,
+                    "ana": [
+                        {
+                            "lex": "2015",
+                            "trans_ru": "2015",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "соналъ",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 26,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "erg",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гьабураб",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 25,
+                    "ana": [
+                        {
+                            "lex": "гьабизе",
+                            "trans_ru": "делать",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "терроралъулаб",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 45,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 24
+                },
+                {
+                    "wf": "акт",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 49,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 50,
+                    "off_end": 51,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 22,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ккола",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 57,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 21,
+                    "ana": [
+                        {
+                            "lex": "кквезе",
+                            "trans_ru": "держаться",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor"
+                        },
+                        {
+                            "lex": "ккезе",
+                            "trans_ru": "оказываться",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "aor"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 58,
+                    "off_end": 59,
+                    "next_word": 9
+                },
+                {
+                    "wf": "Турциялъул",
+                    "wtype": "word",
+                    "off_start": 60,
+                    "off_end": 70,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 20,
+                    "ana": [
+                        {
+                            "lex": "Турция",
+                            "trans_ru": "Турция",
+                            "gr.case": "gen",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": "тахшагьар",
+                    "wtype": "word",
+                    "off_start": 71,
+                    "off_end": 80,
+                    "next_word": 11,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 19,
+                    "ana": [
+                        {
+                            "lex": "тахшагьар",
+                            "trans_ru": "столица",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Анкараялда",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 12,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "lex": "Анкара",
+                            "trans_ru": "Анкара",
+                            "gr.case": "loc",
+                            "gr.nametype": "top",
+                            "gr.pos": "np",
+                            "gr.num": "sg"
+                        }
+                    ]
+                },
+                {
+                    "wf": "цоцада",
+                    "wtype": "word",
+                    "off_start": 92,
+                    "off_end": 98,
+                    "next_word": 13,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "хадуб",
+                    "wtype": "word",
+                    "off_start": 99,
+                    "off_end": 104,
+                    "next_word": 14,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "хадуб",
+                            "trans_ru": "после",
+                            "gr.case": "loc",
+                            "gr.pos": "adv",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "хадуб",
+                            "trans_ru": "после",
+                            "gr.pos": "post"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 58,
+                    "off_end": 59,
+                    "next_word": 15
+                },
+                {
+                    "wf": "2015",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 16,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "2015",
+                            "trans_ru": "2015",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "соналъул",
+                    "wtype": "word",
+                    "off_start": 112,
+                    "off_end": 120,
+                    "next_word": 17,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "gen",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "10",
+                    "wtype": "word",
+                    "off_start": 121,
+                    "off_end": 123,
+                    "next_word": 18,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "10",
+                            "trans_ru": "10",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "октябралъ",
+                    "wtype": "word",
+                    "off_start": 124,
+                    "off_end": 133,
+                    "next_word": 19,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "октябрь",
+                            "trans_ru": "октябрь",
+                            "gr.case": "erg",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "радал",
+                    "wtype": "word",
+                    "off_start": 134,
+                    "off_end": 139,
+                    "next_word": 20,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "радал",
+                            "trans_ru": "утром",
+                            "gr.pos": "adv"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сагӀат",
+                    "wtype": "word",
+                    "off_start": 140,
+                    "off_end": 146,
+                    "next_word": 21,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "сагӏат",
+                            "trans_ru": "сагӏат",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "10",
+                    "wtype": "word",
+                    "off_start": 121,
+                    "off_end": 123,
+                    "next_word": 22,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "10",
+                            "trans_ru": "10",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_start": 150,
+                    "off_end": 151,
+                    "next_word": 23
+                },
+                {
+                    "wf": "05",
+                    "wtype": "word",
+                    "off_start": 152,
+                    "off_end": 154,
+                    "next_word": 24,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "05",
+                            "trans_ru": "05",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "минут",
+                    "wtype": "word",
+                    "off_start": 155,
+                    "off_end": 160,
+                    "next_word": 25,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "минут",
+                            "trans_ru": "минута",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "араб",
+                    "wtype": "word",
+                    "off_start": 161,
+                    "off_end": 165,
+                    "next_word": 26,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "ине",
+                            "trans_ru": "идти",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "мехалъ",
+                    "wtype": "word",
+                    "off_start": 166,
+                    "off_end": 172,
+                    "next_word": 27,
+                    "sentence_index": 23,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "мехалъ",
+                            "trans_ru": "время",
+                            "gr.pos": "adv"
+                        },
+                        {
+                            "lex": "мех",
+                            "trans_ru": "время",
+                            "gr.case": "erg",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ккараб",
+                    "wtype": "word",
+                    "off_start": 173,
+                    "off_end": 179,
+                    "next_word": 28,
+                    "sentence_index": 24,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "ккезе",
+                            "trans_ru": "оказываться",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кӀиго",
+                    "wtype": "word",
+                    "off_start": 180,
+                    "off_end": 185,
+                    "next_word": 29,
+                    "sentence_index": 25,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "кӏиго",
+                            "trans_ru": "два",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кьвагьи",
+                    "wtype": "word",
+                    "off_start": 186,
+                    "off_end": 193,
+                    "next_word": 30,
+                    "sentence_index": 26,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "кьвагьи",
+                            "trans_ru": "стрельба",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 194,
+                    "off_end": 195,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Ал-ХӀакиму",
+                "author": ""
+            }
+        },
+        {
+            "text": "ТӀоцересел баяназда рекъон , кьвагьулеб жо хӀалтӀизе биччан буго живго жинцаго чӀвалев - террористас , ва гьелъул хӀасилалда , официалиял баяназда рекъон чӀван вуго 102 чи , лъукъун вуго 246 чи .",
+            "words": [
+                {
+                    "wf": "ТӀоцересел",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 26,
+                    "ana": [
+                        {
+                            "lex": "тӏоцебесеб",
+                            "trans_ru": "первое",
+                            "gr.pos": "adj",
+                            "gr.num": "pl"
+                        }
+                    ]
+                },
+                {
+                    "wf": "баяназда",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 19,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 25,
+                    "ana": [
+                        {
+                            "lex": "баян",
+                            "trans_ru": "сведение",
+                            "gr.case": "loc",
+                            "gr.pos": "n",
+                            "gr.num": "pl",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рекъон",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 26,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 24,
+                    "ana": [
+                        {
+                            "lex": "рекъон",
+                            "trans_ru": "согласно",
+                            "gr.pos": "post"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 4
+                },
+                {
+                    "wf": "кьвагьулеб",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 39,
+                    "next_word": 5,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "жо",
+                    "wtype": "word",
+                    "off_start": 40,
+                    "off_end": 42,
+                    "next_word": 6,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 22,
+                    "ana": [
+                        {
+                            "lex": "жо",
+                            "trans_ru": "вещь",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "хӀалтӀизе",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 52,
+                    "next_word": 7,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 21,
+                    "ana": [
+                        {
+                            "lex": "хӏалтӏизе",
+                            "trans_ru": "работать",
+                            "gr.v_form": "inf",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "биччан",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 59,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 20,
+                    "ana": [
+                        {
+                            "lex": "биччазе",
+                            "trans_ru": "освободиться",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 60,
+                    "off_end": 64,
+                    "next_word": 9,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 19,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "живго",
+                    "wtype": "word",
+                    "off_start": 65,
+                    "off_end": 70,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "lex": "жиб",
+                            "trans_ru": "сам",
+                            "gr.prontype": "ref",
+                            "gr.case": "nom",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": "жинцаго",
+                    "wtype": "word",
+                    "off_start": 71,
+                    "off_end": 78,
+                    "next_word": 11,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "lex": "жиб",
+                            "trans_ru": "сам",
+                            "gr.prontype": "ref",
+                            "gr.case": "erg",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "f"
+                        },
+                        {
+                            "lex": "жиб",
+                            "trans_ru": "сам",
+                            "gr.prontype": "ref",
+                            "gr.case": "erg",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        },
+                        {
+                            "lex": "жиб",
+                            "trans_ru": "сам",
+                            "gr.prontype": "ref",
+                            "gr.case": "erg",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чӀвалев",
+                    "wtype": "word",
+                    "off_start": 79,
+                    "off_end": 86,
+                    "next_word": 12,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "чӏвазе",
+                            "trans_ru": "убить",
+                            "gr.v_form_ptcp": "gpr3",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "m"
+                        },
+                        {
+                            "lex": "чӏвазе",
+                            "trans_ru": "убить",
+                            "gr.v_form_ptcp": "gpr1",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 87,
+                    "off_end": 88,
+                    "next_word": 13
+                },
+                {
+                    "wf": "террористас",
+                    "wtype": "word",
+                    "off_start": 89,
+                    "off_end": 100,
+                    "next_word": 14,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "террорист",
+                            "trans_ru": "террорист",
+                            "gr.case": "erg",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 15
+                },
+                {
+                    "wf": "ва",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 33,
+                    "next_word": 16,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "ва",
+                            "trans_ru": "и",
+                            "gr.pos": "cnjcoo"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гьелъул",
+                    "wtype": "word",
+                    "off_start": 106,
+                    "off_end": 113,
+                    "next_word": 17,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "гьеб",
+                            "trans_ru": "то",
+                            "gr.prontype": "dem",
+                            "gr.case": "gen",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "f"
+                        },
+                        {
+                            "lex": "гьеб",
+                            "trans_ru": "то",
+                            "gr.prontype": "dem",
+                            "gr.case": "gen",
+                            "gr.pos": "prn",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "хӀасилалда",
+                    "wtype": "word",
+                    "off_start": 114,
+                    "off_end": 124,
+                    "next_word": 18,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "хӏасил",
+                            "trans_ru": "вывод",
+                            "gr.case": "loc",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 19
+                },
+                {
+                    "wf": "официалиял",
+                    "wtype": "word",
+                    "off_start": 127,
+                    "off_end": 137,
+                    "next_word": 20,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "официалияб",
+                            "trans_ru": "официальный",
+                            "gr.pos": "adj",
+                            "gr.num": "pl"
+                        }
+                    ]
+                },
+                {
+                    "wf": "баяназда",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 19,
+                    "next_word": 21,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "баян",
+                            "trans_ru": "сведение",
+                            "gr.case": "loc",
+                            "gr.pos": "n",
+                            "gr.num": "pl",
+                            "gr.gender": "nt"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рекъон",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 26,
+                    "next_word": 22,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "рекъон",
+                            "trans_ru": "согласно",
+                            "gr.pos": "post"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чӀван",
+                    "wtype": "word",
+                    "off_start": 154,
+                    "off_end": 159,
+                    "next_word": 23,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "чӏвазе",
+                            "trans_ru": "убить",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "вуго",
+                    "wtype": "word",
+                    "off_start": 160,
+                    "off_end": 164,
+                    "next_word": 24,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "pres",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": "102",
+                    "wtype": "word",
+                    "off_start": 165,
+                    "off_end": 168,
+                    "next_word": 25,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "102",
+                            "trans_ru": "102",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чи",
+                    "wtype": "word",
+                    "off_start": 169,
+                    "off_end": 171,
+                    "next_word": 26,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "чи",
+                            "trans_ru": "человек",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 27
+                },
+                {
+                    "wf": "лъукъун",
+                    "wtype": "word",
+                    "off_start": 174,
+                    "off_end": 181,
+                    "next_word": 28,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "лъукъизе",
+                            "trans_ru": "лъукъизе",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "вуго",
+                    "wtype": "word",
+                    "off_start": 160,
+                    "off_end": 164,
+                    "next_word": 29,
+                    "sentence_index": 23,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.tense": "pres",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": "246",
+                    "wtype": "word",
+                    "off_start": 187,
+                    "off_end": 190,
+                    "next_word": 30,
+                    "sentence_index": 24,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "246",
+                            "trans_ru": "246",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чи",
+                    "wtype": "word",
+                    "off_start": 169,
+                    "off_end": 171,
+                    "next_word": 31,
+                    "sentence_index": 25,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "чи",
+                            "trans_ru": "человек",
+                            "gr.case": "nom",
+                            "gr.pos": "n",
+                            "gr.num": "sg",
+                            "gr.gender": "m"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 194,
+                    "off_end": 195,
+                    "next_word": null
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "source": "Wikipedia",
+                "date": "2020",
+                "title": "Ал-ХӀакиму",
+                "author": ""
+            }
+        }
+    ]
+}
