@@ -9,6 +9,7 @@ from transliterators.albanian import albanian_input_normal, albanian_input_simpl
 from transliterators.armenian import armenian_input_latin, armenian_translit_meillet
 from transliterators.uralic_simple import uralic_input_simplified, uralic_input_simplified_cyr
 from transliterators.aramaic import aramaic_urmi_input_normal, aramaic_turoyo_input_normal
+from transliterators.avar import avar_input_normal
 
 
 def trans_IPA_baseline(text, lang):
@@ -54,6 +55,8 @@ def input_method_normal(field, text, lang):
         return aramaic_turoyo_input_normal(field, text)
     elif lang == 'urmi':
         return aramaic_urmi_input_normal(field, text)
+    elif lang == 'avar':
+        return avar_input_normal(field, text)
     return text
 
 
