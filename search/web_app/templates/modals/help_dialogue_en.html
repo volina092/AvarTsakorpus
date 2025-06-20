@@ -1,10 +1,144 @@
 <ul class="nav nav-tabs" role="tablist">
+	<li class="nav-item" role="presentation"><button class="nav-link" id="tab_grammar_codes" data-bs-toggle="tab" data-bs-target="#grammar_codes" type="button" role="tab" aria-controls="grammar_codes" aria-selected="false">Грамматика</button></li>
 	<li class="nav-item" role="presentation"><button class="nav-link active" id="tab_help_single_word_search" data-bs-toggle="tab" data-bs-target="#help_single_word_search" type="button" role="tab" aria-controls="help_single_word_search" aria-selected="true">Single-word search</button></li>
-	<li class="nav-item" role="presentation"><button class="nav-link" id="tab_help_grammar" data-bs-toggle="tab" data-bs-target="#help_grammar" type="button" role="tab" aria-controls="help_grammar" aria-selected="false">Grammar</a></li>
+	<!-- <li class="nav-item" role="presentation"><button class="nav-link" id="tab_help_grammar" data-bs-toggle="tab" data-bs-target="#help_grammar" type="button" role="tab" aria-controls="help_grammar" aria-selected="false">Grammar</a></li> -->
 	<li class="nav-item" role="presentation"><button class="nav-link" id="tab_help_multi_word_search" data-bs-toggle="tab" data-bs-target="#help_multi_word_search" type="button" role="tab" aria-controls="help_multi_word_search" aria-selected="false">Multi-words search</button></li>
 	<li class="nav-item" role="presentation"><button class="nav-link" id="tab_help_subcorpus_selection" data-bs-toggle="tab" data-bs-target="#help_subcorpus_selection" type="button" role="tab" aria-controls="help_subcorpus_selection" aria-selected="false">Subcorpus selection</button></li>
 </ul>
 <div class="tab-content">
+	<div id="grammar_codes" class="tab-pane fade" role="tabpanel" aria-labelledby="tab_grammar_codes">
+		<h4>Grammar Feature Annotation</h4>
+		<p>This document describes the grammatical tags used for annotating the Avar language.</p>
+		<p>Categories and values are listed in the following format:</p>
+		<em>
+			<h5>Category (grammar search tag)</h5>
+			<ul>
+				<li><b>category value (grammar search tag)</b> — category meaning (explanation)</li>
+				<li><b>category value (grammar search tag)</b> — category meaning (explanation)</li>
+				<li> ... </li>
+			</ul>
+		</em>
+		<h4>Categories</h4>
+		<h5>Parts of Speech (pos)</h5>
+		<ul>
+			<li><b>vblex</b> — verb</li> 
+			<li><b>n</b> — noun</li> 
+			<li><b>adj</b> — adjective</li> 
+			<li><b>adv</b> — adverb</li> 
+			<li><b>prn</b> — pronoun</li>
+			<li><b>num</b> — numeral</li>
+			<li><b>np</b> — proper noun</li>
+			<li><b>cnjcoo</b> — coordinating conjunction</li>
+			<li><b>cnjsub</b> — subordinating conjunction</li>
+			<li><b>cnjadv</b> — adverbial conjunction</li>
+			<li><b>ij</b> — interjection</li>
+			<li><b>post</b> — postposition</li>
+			<li><b>abbr</b> — abbreviation</li>
+		</ul>
+
+		<h5>Clitics (clitics)</h5>
+		<ul>
+			<li><b>emph</b> — emphatic particle</li>
+			<li><b>qst</b> — interrogative particle</li>
+			<li><b>quot</b> — quotative particle</li>
+			<li><b>mod</b> — modal particle</li>
+			<li><b>neg</b> — negative particle</li>
+		</ul>
+
+		<h5>Transitivity (transitivity) — for verbs</h5>
+		<ul>
+			<li><b>iv</b> — intransitive verb</li>
+			<li><b>tv</b> — transitive verb</li>
+		</ul>
+
+		<h5>Aspect (aspect)</h5>
+		<ul>
+			<li><b>caus</b> — causative</li>
+			<li><b>imp</b> — imperative</li>
+			<li><b>freq</b> — frequentative</li>
+		</ul>
+
+		<h5>Verb Forms (v_form)</h5>
+		<ul>
+			<li><b>inf</b> — infinitive</li>
+			<li><b>ger</b> — gerund</li>
+		</ul>
+
+		<h5>Tense (tense)</h5>
+		<ul>
+			<li><b>aor</b> — aorist</li>
+			<li><b>fut</b> — future tense</li>
+			<li><b>past</b> — past tense</li>
+			<li><b>pres</b> — present tense</li>
+		</ul>
+
+		<h5>Participles (v_form_ptcp)</h5>
+		<ul>
+			<li><b>gpr1</b> — participle I</li>
+			<li><b>gpr2</b> — participle II</li>
+			<li><b>gpr3</b> — participle III</li>
+		</ul>
+
+		<h5>Converbs (v_form_cvb)</h5>
+		<ul>
+			<li><b>gna1</b> — converb I</li>
+			<li><b>gna2</b> — converb II</li>
+			<li><b>gna3</b> — converb III</li>
+		</ul>
+
+		<h5>Gender (gender)</h5>
+		<ul>
+			<li><b>m</b> — masculine (Agreement class I)</li>
+			<li><b>f</b> — feminine (Agreement class II)</li>
+			<li><b>nt</b> — neuter (Agreement class III)</li>
+			<li><b>pl</b> — plural (Agreement class IV*)</li>
+		</ul>
+
+		<h5>Cases (case)</h5>
+		<ul>
+			<li><b>nom</b> — nominative (absolutive)</li>
+			<li><b>erg</b> — ergative</li>
+			<li><b>gen</b> — genitive</li>
+			<li><b>dat</b> — dative</li>
+			<li><b>obl</b> — oblique case</li>
+			<li><b>loc</b> — locative</li>
+			<li><b>all</b> — allative</li>
+			<li><b>abl</b> — ablative</li>
+			<li><b>tra</b> — translative</li>
+		</ul>
+
+		<h5>Number (num)</h5>
+		<ul>
+			<li><b>sg</b> — singular</li>
+			<li><b>pl</b> — plural</li>
+		</ul>
+
+		<h5>Pronoun Types (prontype)</h5>
+		<ul>
+			<li><b>pers</b> — personal</li>
+			<li><b>rel</b> — relative</li>
+			<li><b>ref</b> — reflexive</li>
+			<li><b>itg</b> — interrogative</li>
+			<li><b>dem</b> — demonstrative</li>
+			<li><b>ord</b> — ordinal</li>
+			<li><b>ind</b> — indefinite</li>
+		</ul>
+
+		<h5>Proper Noun Types (nametype)</h5>
+		<ul>
+			<li><b>top</b> — toponym</li>
+			<li><b>ant</b> — anthroponym (personal name)</li>
+			<li><b>cog</b> — cognomen (surname)</li>
+			<li><b>pat</b> — patronymic</li>
+			<li><b>al</b> — other (e.g., company name)</li>
+		</ul>
+
+		<h5>Other Tags (other)</h5>
+		<ul>
+			<li><b>subst</b> — substantivizer</li>
+			<li><b>attr</b> — attributive</li>
+		</ul>
+	</div>
 	<div id="help_single_word_search" class="tab-pane fade show active" role="tabpanel" aria-labelledby="tab_help_single_word_search">
 		<h4>Basic search</h4>
 		<p>A corpus is a collection of annotated texts. You can use it to find out in which contexts, in what kind of texts and how frequently words and constructions are used. To do this, you have to fill in the word query form in the left upper corner of the search panel. The description below covers single-word queries, i.e. queries you make to look for one specific word or a class of words in the corpus.</p>
