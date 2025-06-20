@@ -3,7 +3,7 @@
     "elastic_url": "http://localhost:9200/",
     "citation": "",
     "start_page_url": "http://127.0.0.1:7342/search",
-    "documentation_url": "https://www.fdr.uni-hamburg.de/record/13882/files/kamas-2.0-documentation.pdf",
+    "documentation_url": "",
     "input_format": "json",
     "debug": false,
     "media": false,
@@ -231,16 +231,7 @@
     },
     "word_fields": [
         "trans_en",
-        "trans_ru",
-        "mc",
-        "SeR",
-        "SyF",
-        "IST",
-        "BOR",
-        "BOR-Phon",
-        "BOR-Morph",
-        "CS",
-        "ExLocPoss"
+        "trans_ru"
     ],
     "text_fields_analyzer_pattern": "[\n()\\[\\]/,:;?!\" ]",
     "text_fields_lowercase": false,
