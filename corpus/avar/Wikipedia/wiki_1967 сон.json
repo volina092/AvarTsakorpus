@@ -1,0 +1,863 @@
+{
+    "meta": {
+        "filename": "wiki_1967 сон.json",
+        "title": "1967 сон",
+        "author": "",
+        "year": "2022",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "1967-абилеб ( азаралда ичӀнусиялда лъабкъоялда анкьабилеб ) сон грегорианияб календаралда рекъон — гӀаммаб сон , жиб гьатӀан къоялъ байбихьулеб .",
+            "words": [
+                {
+                    "wf": "1967-абилеб",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "lex": "1967",
+                            "trans_ru": "1967",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "next_word": 2
+                },
+                {
+                    "wf": "азаралда",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "ичӀнусиялда",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 34,
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "лъабкъоялда",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 46,
+                    "next_word": 5,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "анкьабилеб",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 57,
+                    "next_word": 6,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "анкьго",
+                            "trans_ru": "семь",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 58,
+                    "off_end": 59,
+                    "next_word": 7
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 60,
+                    "off_end": 63,
+                    "next_word": 8,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "грегорианияб",
+                    "wtype": "word",
+                    "off_start": 64,
+                    "off_end": 76,
+                    "next_word": 9,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "календаралда",
+                    "wtype": "word",
+                    "off_start": 77,
+                    "off_end": 89,
+                    "next_word": 10,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "календарь",
+                            "trans_ru": "календарь",
+                            "gr.case": "loc",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рекъон",
+                    "wtype": "word",
+                    "off_start": 90,
+                    "off_end": 96,
+                    "next_word": 11,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "рекъон",
+                            "trans_ru": "согласно",
+                            "gr.pos": "post"
+                        }
+                    ]
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 97,
+                    "off_end": 98,
+                    "next_word": 12,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гӀаммаб",
+                    "wtype": "word",
+                    "off_start": 99,
+                    "off_end": 106,
+                    "next_word": 13,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "гӏаммаб",
+                            "trans_ru": "общий",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 60,
+                    "off_end": 63,
+                    "next_word": 14,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 111,
+                    "off_end": 112,
+                    "next_word": 15
+                },
+                {
+                    "wf": "жиб",
+                    "wtype": "word",
+                    "off_start": 113,
+                    "off_end": 116,
+                    "next_word": 16,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "жиб",
+                            "trans_ru": "сам",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "prn",
+                            "gr.prontype": "ref"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гьатӀан",
+                    "wtype": "word",
+                    "off_start": 117,
+                    "off_end": 124,
+                    "next_word": 17,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "къоялъ",
+                    "wtype": "word",
+                    "off_start": 125,
+                    "off_end": 131,
+                    "next_word": 18,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "къо",
+                            "trans_ru": "день",
+                            "gr.case": "erg",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "байбихьулеб",
+                    "wtype": "word",
+                    "off_start": 132,
+                    "off_end": 143,
+                    "next_word": 19,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "байбихьизе",
+                            "trans_ru": "начаться",
+                            "gr.v_form_ptcp": "gpr1",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        },
+                        {
+                            "lex": "байбихьизе",
+                            "trans_ru": "начаться",
+                            "gr.v_form_ptcp": "gpr1",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 144,
+                    "off_end": 145,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "Гьеб буго 2-абилеб азарсоналъул XX гӀасруялъул 7-абилеб анцӀсоналъул 7-абилеб сон , нилӀер эраялъул 1967-абилеб сон , 1960-абилел соназул 8-абилеб сон .",
+            "words": [
+                {
+                    "wf": "Гьеб",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "lex": "гьеб\\<det\\>",
+                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>",
+                            "gr.gender": "nt",
+                            "gr.prontype": "dem"
+                        },
+                        {
+                            "lex": "гьеб",
+                            "trans_ru": "то",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "prn",
+                            "gr.prontype": "dem"
+                        }
+                    ]
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "2-абилеб",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "lex": "2",
+                            "trans_ru": "2",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "азарсоналъул",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "XX",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 34,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "гӀасруялъул",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 46,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "гӏасру",
+                            "trans_ru": "век",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "7-абилеб",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 55,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "7",
+                            "trans_ru": "7",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "анцӀсоналъул",
+                    "wtype": "word",
+                    "off_start": 56,
+                    "off_end": 68,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "7-абилеб",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 55,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "7",
+                            "trans_ru": "7",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 26,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 82,
+                    "off_end": 83,
+                    "next_word": 11
+                },
+                {
+                    "wf": "нилӀер",
+                    "wtype": "word",
+                    "off_start": 84,
+                    "off_end": 90,
+                    "next_word": 12,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "эраялъул",
+                    "wtype": "word",
+                    "off_start": 91,
+                    "off_end": 99,
+                    "next_word": 13,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "эра",
+                            "trans_ru": "эра",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "1967-абилеб",
+                    "wtype": "word",
+                    "off_start": 100,
+                    "off_end": 111,
+                    "next_word": 14,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "1967",
+                            "trans_ru": "1967",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 26,
+                    "next_word": 15,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 82,
+                    "off_end": 83,
+                    "next_word": 16
+                },
+                {
+                    "wf": "1960-абилел",
+                    "wtype": "word",
+                    "off_start": 118,
+                    "off_end": 129,
+                    "next_word": 17,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "1960",
+                            "trans_ru": "1960",
+                            "gr.num": "pl",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "соназул",
+                    "wtype": "word",
+                    "off_start": 130,
+                    "off_end": 137,
+                    "next_word": 18,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "gen",
+                            "gr.num": "pl",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "8-абилеб",
+                    "wtype": "word",
+                    "off_start": 138,
+                    "off_end": 146,
+                    "next_word": 19,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "8",
+                            "trans_ru": "8",
+                            "gr.gender": "nt",
+                            "gr.pos": "num",
+                            "gr.prontype": "ord"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 26,
+                    "next_word": 20,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 151,
+                    "off_end": 152,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "Гьеб лӀугӀаралдаса ана 57 сон .",
+            "words": [
+                {
+                    "wf": "Гьеб",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "гьеб\\<det\\>",
+                            "trans_ru": "то@\\\\<sent>*\\<det@\\\\<sent>*\\>",
+                            "gr.gender": "nt",
+                            "gr.prontype": "dem"
+                        },
+                        {
+                            "lex": "гьеб",
+                            "trans_ru": "то",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "prn",
+                            "gr.prontype": "dem"
+                        }
+                    ]
+                },
+                {
+                    "wf": "лӀугӀаралдаса",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "ана",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "ине",
+                            "trans_ru": "идти",
+                            "gr.tense": "past",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "57",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "57",
+                            "trans_ru": "57",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 29,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "сон",
+                            "trans_ru": "год",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 30,
+                    "off_end": 31,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "ИсмагӀил ГъазимухӀамадов — хъвадарухъан , тарихчи .",
+            "words": [
+                {
+                    "wf": "ИсмагӀил",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "Исмагӏил",
+                            "trans_ru": "Исмагӏил",
+                            "gr.case": "nom",
+                            "gr.nametype": "ant",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        },
+                        {
+                            "lex": "Исмагӏил",
+                            "trans_ru": "Исмагӏил",
+                            "gr.nametype": "ant",
+                            "gr.other": "attr",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ГъазимухӀамадов",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 24,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "Гъазимухӏамадов",
+                            "trans_ru": "Гъазимухӏамадов",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.nametype": "cog",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "хъвадарухъан",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 39,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "хъвадарухъан",
+                            "trans_ru": "писатель",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "f",
+                            "gr.pos": "n"
+                        },
+                        {
+                            "lex": "хъвадарухъан",
+                            "trans_ru": "писатель",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "m",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 40,
+                    "off_end": 41,
+                    "next_word": 5
+                },
+                {
+                    "wf": "тарихчи",
+                    "wtype": "word",
+                    "off_start": 42,
+                    "off_end": 49,
+                    "next_word": 6,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "тарихчи",
+                            "trans_ru": "историк",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "m",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 50,
+                    "off_end": 51,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}

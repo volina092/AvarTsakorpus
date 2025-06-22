@@ -1,0 +1,247 @@
+{
+    "meta": {
+        "filename": "wiki_Аваразул сияхӀ.json",
+        "title": "Аваразул сияхӀ",
+        "author": "",
+        "year": "2024",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "ГъоркьегӀан буго кьун цӀар арал авар чагӀазул сияхӀ .",
+            "words": [
+                {
+                    "wf": "ГъоркьегӀан",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кьун",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "кьезе",
+                            "trans_ru": "давать",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "цӀар",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "цӏар",
+                            "trans_ru": "имя",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "арал",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "ине",
+                            "trans_ru": "идти",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.num": "pl",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "авар",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 36,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "авар",
+                            "trans_ru": "аварский",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чагӀазул",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 45,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "чи",
+                            "trans_ru": "человек",
+                            "gr.case": "gen",
+                            "gr.num": "pl",
+                            "gr.gender": "m",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сияхӀ",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 51,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "сияхӏ",
+                            "trans_ru": "список",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 52,
+                    "off_end": 53,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "Суракъат I ( ХӀII гӀасру )",
+            "words": [
+                {
+                    "wf": "Суракъат",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "Суракъат",
+                            "trans_ru": "Суракъат",
+                            "gr.case": "nom",
+                            "gr.nametype": "ant",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        },
+                        {
+                            "lex": "Суракъат",
+                            "trans_ru": "Суракъат",
+                            "gr.nametype": "ant",
+                            "gr.other": "attr",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "I",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "next_word": 3
+                },
+                {
+                    "wf": "ХӀII",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "гӀасру",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "гӏасру",
+                            "trans_ru": "век",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 25,
+                    "off_end": 26,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}

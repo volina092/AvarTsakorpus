@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "filename": "wiki_Азадугъли.json",
+        "title": "Азадугъли",
+        "author": "",
+        "year": "2023",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "МухӀарамхур — ккола Россиялъул Дагъистан жумгьурияталъул МухӀарамхур мухъалъул росу .",
+            "words": [
+                {
+                    "wf": "МухӀарамхур",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ккола",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "кквезе",
+                            "trans_ru": "держаться",
+                            "gr.tense": "aor",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        },
+                        {
+                            "lex": "ккезе",
+                            "trans_ru": "оказываться",
+                            "gr.tense": "aor",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Россиялъул",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 30,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "Россия",
+                            "trans_ru": "Россия",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Дагъистан",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 40,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "Дагъистан",
+                            "trans_ru": "Дагестан",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.pos": "np"
+                        },
+                        {
+                            "lex": "Дагъистан",
+                            "trans_ru": "Дагестан",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.other": "attr",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "жумгьурияталъул",
+                    "wtype": "word",
+                    "off_start": 41,
+                    "off_end": 56,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "МухӀарамхур",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "мухъалъул",
+                    "wtype": "word",
+                    "off_start": 69,
+                    "off_end": 78,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "мухъ",
+                            "trans_ru": "край",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "росу",
+                    "wtype": "word",
+                    "off_start": 79,
+                    "off_end": 83,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "росу",
+                            "trans_ru": "село",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 84,
+                    "off_end": 85,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "Мухъалъул марказ МухӀарамхуралдасан 25 км шималгун - бакъбаккудехун ва Самуралъул ГьитӀинаб гӀаркьелалъул квегӀаб рахъалда .",
+            "words": [
+                {
+                    "wf": "Мухъалъул",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "мухъ",
+                            "trans_ru": "край",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "марказ",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "МухӀарамхуралдасан",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 35,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "25",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 38,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "25",
+                            "trans_ru": "25",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "км",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 41,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "км",
+                            "trans_ru": "км",
+                            "gr.pos": "abbr"
+                        }
+                    ]
+                },
+                {
+                    "wf": "шималгун",
+                    "wtype": "word",
+                    "off_start": 42,
+                    "off_end": 50,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "-",
+                    "wtype": "punct",
+                    "off_start": 51,
+                    "off_end": 52,
+                    "next_word": 7
+                },
+                {
+                    "wf": "бакъбаккудехун",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 67,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "ва",
+                    "wtype": "word",
+                    "off_start": 68,
+                    "off_end": 70,
+                    "next_word": 9,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "ва",
+                            "trans_ru": "и",
+                            "gr.clitics": "cnjcoo"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Самуралъул",
+                    "wtype": "word",
+                    "off_start": 71,
+                    "off_end": 81,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "ГьитӀинаб",
+                    "wtype": "word",
+                    "off_start": 82,
+                    "off_end": 91,
+                    "next_word": 11,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "гьитӏинаб",
+                            "trans_ru": "маленький",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гӀаркьелалъул",
+                    "wtype": "word",
+                    "off_start": 92,
+                    "off_end": 105,
+                    "next_word": 12,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "квегӀаб",
+                    "wtype": "word",
+                    "off_start": 106,
+                    "off_end": 113,
+                    "next_word": 13,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "квегӏаб",
+                            "trans_ru": "левый",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рахъалда",
+                    "wtype": "word",
+                    "off_start": 114,
+                    "off_end": 122,
+                    "next_word": 14,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "рахъ",
+                            "trans_ru": "сторона",
+                            "gr.case": "loc",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 123,
+                    "off_end": 124,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}

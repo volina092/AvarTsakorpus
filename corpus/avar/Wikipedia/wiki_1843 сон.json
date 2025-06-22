@@ -1,0 +1,298 @@
+{
+    "meta": {
+        "filename": "wiki_1843 сон.json",
+        "title": "1843 сон",
+        "author": "",
+        "year": "2022",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "15 ноябр — Шамил имамасул аскараз Хьаргаби хъала бахъи Кавказалъул рагъда ( 1817 — 1864 сс ) .",
+            "words": [
+                {
+                    "wf": "15",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "lex": "15",
+                            "trans_ru": "15",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ноябр",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Шамил",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "lex": "Шамил",
+                            "trans_ru": "Шамиль",
+                            "gr.case": "nom",
+                            "gr.nametype": "ant",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        },
+                        {
+                            "lex": "Шамил",
+                            "trans_ru": "Шамиль",
+                            "gr.nametype": "ant",
+                            "gr.other": "attr",
+                            "gr.gender": "m",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "имамасул",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "имам",
+                            "trans_ru": "имам",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "m",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "аскараз",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 33,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "аскар",
+                            "trans_ru": "армия",
+                            "gr.case": "erg",
+                            "gr.num": "pl",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Хьаргаби",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 42,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "Хьаргаби",
+                            "trans_ru": "Хьаргаби",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.pos": "np"
+                        },
+                        {
+                            "lex": "Хьаргаби",
+                            "trans_ru": "Хьаргаби",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.other": "attr",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "хъала",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 48,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "бахъи",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 54,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "бахъи",
+                            "trans_ru": "бахъи",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        },
+                        {
+                            "lex": "бахъизе",
+                            "trans_ru": "выйти",
+                            "gr.case": "nom",
+                            "gr.v_form": "ger",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Кавказалъул",
+                    "wtype": "word",
+                    "off_start": 55,
+                    "off_end": 66,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "Кавказ",
+                            "trans_ru": "Кавказ",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.nametype": "top",
+                            "gr.pos": "np"
+                        }
+                    ]
+                },
+                {
+                    "wf": "рагъда",
+                    "wtype": "word",
+                    "off_start": 67,
+                    "off_end": 73,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 74,
+                    "off_end": 75,
+                    "next_word": 12
+                },
+                {
+                    "wf": "1817",
+                    "wtype": "word",
+                    "off_start": 76,
+                    "off_end": 80,
+                    "next_word": 13,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "1817",
+                            "trans_ru": "1817",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 14,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "1864",
+                    "wtype": "word",
+                    "off_start": 83,
+                    "off_end": 87,
+                    "next_word": 15,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "1864",
+                            "trans_ru": "1864",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сс",
+                    "wtype": "word",
+                    "off_start": 88,
+                    "off_end": 90,
+                    "next_word": 16,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 91,
+                    "off_end": 92,
+                    "next_word": 17
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 93,
+                    "off_end": 94,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}

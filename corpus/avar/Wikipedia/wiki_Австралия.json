@@ -1,0 +1,730 @@
+{
+    "meta": {
+        "filename": "wiki_Австралия.json",
+        "title": "Австралия",
+        "author": "",
+        "year": "2025",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "Австралия , официалго Австралиялъул Цадахълъи , буго суверенияб пачалихъ , Австралияб континенги , Тасманиялъул чӀинкӀиллъиги , ва чанго гӀиссинал чӀинкӀиллъабиги гъорлӀе рачараб .",
+            "words": [
+                {
+                    "wf": "Австралия",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 2
+                },
+                {
+                    "wf": "официалго",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "Австралиялъул",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 35,
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "Цадахълъи",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 45,
+                    "next_word": 5,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 6
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 48,
+                    "off_end": 52,
+                    "next_word": 7,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "суверенияб",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 63,
+                    "next_word": 8,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "пачалихъ",
+                    "wtype": "word",
+                    "off_start": 64,
+                    "off_end": 72,
+                    "next_word": 9,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "пачалихъ",
+                            "trans_ru": "государство",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 10
+                },
+                {
+                    "wf": "Австралияб",
+                    "wtype": "word",
+                    "off_start": 75,
+                    "off_end": 85,
+                    "next_word": 11,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "континенги",
+                    "wtype": "word",
+                    "off_start": 86,
+                    "off_end": 96,
+                    "next_word": 12,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 13
+                },
+                {
+                    "wf": "Тасманиялъул",
+                    "wtype": "word",
+                    "off_start": 99,
+                    "off_end": 111,
+                    "next_word": 14,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "чӀинкӀиллъиги",
+                    "wtype": "word",
+                    "off_start": 112,
+                    "off_end": 125,
+                    "next_word": 15,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "чӏинкӏиллъи",
+                            "trans_ru": "остров",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.clitics": "cnjcoo",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 16
+                },
+                {
+                    "wf": "ва",
+                    "wtype": "word",
+                    "off_start": 128,
+                    "off_end": 130,
+                    "next_word": 17,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "ва",
+                            "trans_ru": "и",
+                            "gr.clitics": "cnjcoo"
+                        }
+                    ]
+                },
+                {
+                    "wf": "чанго",
+                    "wtype": "word",
+                    "off_start": 131,
+                    "off_end": 136,
+                    "next_word": 18,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "чанго",
+                            "trans_ru": "много",
+                            "gr.pos": "adv"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гӀиссинал",
+                    "wtype": "word",
+                    "off_start": 137,
+                    "off_end": 146,
+                    "next_word": 19,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "чӀинкӀиллъабиги",
+                    "wtype": "word",
+                    "off_start": 147,
+                    "off_end": 162,
+                    "next_word": 20,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "чӏинкӏиллъи",
+                            "trans_ru": "остров",
+                            "gr.case": "nom",
+                            "gr.num": "pl",
+                            "gr.clitics": "cnjcoo",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гъорлӀе",
+                    "wtype": "word",
+                    "off_start": 163,
+                    "off_end": 170,
+                    "next_word": 21,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "рачараб",
+                    "wtype": "word",
+                    "off_start": 171,
+                    "off_end": 178,
+                    "next_word": 22,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "бачине",
+                            "trans_ru": "вести",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.num": "pl",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 179,
+                    "off_end": 180,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "7 , 617 , 930 square kiӀоmetres ( 2 , 941 , 300 sq mi ) бугеб гӀатӀилъигун , Австралия буго территориялъул рахъалъ Океаниялда бищун кӀудияб пачалихъ ва дунялалъул анлӀабилеб бищун кӀудияб пачалихъ .",
+            "words": [
+                {
+                    "wf": "7",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 28,
+                    "ana": [
+                        {
+                            "lex": "7",
+                            "trans_ru": "7",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 2
+                },
+                {
+                    "wf": "617",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 7,
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 27,
+                    "ana": [
+                        {
+                            "lex": "617",
+                            "trans_ru": "617",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 4
+                },
+                {
+                    "wf": "930",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 13,
+                    "next_word": 5,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 26,
+                    "ana": [
+                        {
+                            "lex": "930",
+                            "trans_ru": "930",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "square",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "next_word": 6,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 25
+                },
+                {
+                    "wf": "kiӀоmetres",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 31,
+                    "next_word": 7,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 24
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "next_word": 8
+                },
+                {
+                    "wf": "2",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 35,
+                    "next_word": 9,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 23,
+                    "ana": [
+                        {
+                            "lex": "2",
+                            "trans_ru": "2",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 10
+                },
+                {
+                    "wf": "941",
+                    "wtype": "word",
+                    "off_start": 38,
+                    "off_end": 41,
+                    "next_word": 11,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 22,
+                    "ana": [
+                        {
+                            "lex": "941",
+                            "trans_ru": "941",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 12
+                },
+                {
+                    "wf": "300",
+                    "wtype": "word",
+                    "off_start": 44,
+                    "off_end": 47,
+                    "next_word": 13,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 21,
+                    "ana": [
+                        {
+                            "lex": "300",
+                            "trans_ru": "300",
+                            "gr.pos": "num"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sq",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 16,
+                    "next_word": 14,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 20
+                },
+                {
+                    "wf": "mi",
+                    "wtype": "word",
+                    "off_start": 51,
+                    "off_end": 53,
+                    "next_word": 15,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 54,
+                    "off_end": 55,
+                    "next_word": 16
+                },
+                {
+                    "wf": "бугеб",
+                    "wtype": "word",
+                    "off_start": 56,
+                    "off_end": 61,
+                    "next_word": 17,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "lex": "бугеб",
+                            "trans_ru": "--",
+                            "gr.gender": "nt",
+                            "gr.pos": "prn",
+                            "gr.prontype": "rel"
+                        }
+                    ]
+                },
+                {
+                    "wf": "гӀатӀилъигун",
+                    "wtype": "word",
+                    "off_start": 62,
+                    "off_end": 74,
+                    "next_word": 18,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 19
+                },
+                {
+                    "wf": "Австралия",
+                    "wtype": "word",
+                    "off_start": 77,
+                    "off_end": 86,
+                    "next_word": 20,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 87,
+                    "off_end": 91,
+                    "next_word": 21,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "территориялъул",
+                    "wtype": "word",
+                    "off_start": 92,
+                    "off_end": 106,
+                    "next_word": 22,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "рахъалъ",
+                    "wtype": "word",
+                    "off_start": 107,
+                    "off_end": 114,
+                    "next_word": 23,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "lex": "рахъ",
+                            "trans_ru": "сторона",
+                            "gr.case": "erg",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Океаниялда",
+                    "wtype": "word",
+                    "off_start": 115,
+                    "off_end": 125,
+                    "next_word": 24,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "бищун",
+                    "wtype": "word",
+                    "off_start": 126,
+                    "off_end": 131,
+                    "next_word": 25,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "lex": "бищун",
+                            "trans_ru": "выбрать",
+                            "gr.pos": "adv"
+                        },
+                        {
+                            "lex": "бищизе",
+                            "trans_ru": "выбрать",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кӀудияб",
+                    "wtype": "word",
+                    "off_start": 132,
+                    "off_end": 139,
+                    "next_word": 26,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "кӏудияб",
+                            "trans_ru": "большое",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "пачалихъ",
+                    "wtype": "word",
+                    "off_start": 140,
+                    "off_end": 148,
+                    "next_word": 27,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "пачалихъ",
+                            "trans_ru": "государство",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ва",
+                    "wtype": "word",
+                    "off_start": 149,
+                    "off_end": 151,
+                    "next_word": 28,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "ва",
+                            "trans_ru": "и",
+                            "gr.clitics": "cnjcoo"
+                        }
+                    ]
+                },
+                {
+                    "wf": "дунялалъул",
+                    "wtype": "word",
+                    "off_start": 152,
+                    "off_end": 162,
+                    "next_word": 29,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "дуниял",
+                            "trans_ru": "мир",
+                            "gr.case": "gen",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "анлӀабилеб",
+                    "wtype": "word",
+                    "off_start": 163,
+                    "off_end": 173,
+                    "next_word": 30,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "бищун",
+                    "wtype": "word",
+                    "off_start": 126,
+                    "off_end": 131,
+                    "next_word": 31,
+                    "sentence_index": 23,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "бищун",
+                            "trans_ru": "выбрать",
+                            "gr.pos": "adv"
+                        },
+                        {
+                            "lex": "бищизе",
+                            "trans_ru": "выбрать",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "кӀудияб",
+                    "wtype": "word",
+                    "off_start": 132,
+                    "off_end": 139,
+                    "next_word": 32,
+                    "sentence_index": 24,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "кӏудияб",
+                            "trans_ru": "большое",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "пачалихъ",
+                    "wtype": "word",
+                    "off_start": 140,
+                    "off_end": 148,
+                    "next_word": 33,
+                    "sentence_index": 25,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "пачалихъ",
+                            "trans_ru": "государство",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 197,
+                    "off_end": 198,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}

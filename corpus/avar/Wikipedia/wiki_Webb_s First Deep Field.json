@@ -1,0 +1,457 @@
+{
+    "meta": {
+        "filename": "wiki_Webb's First Deep Field.json",
+        "title": "Webb's First Deep Field",
+        "author": "",
+        "year": "2022",
+        "recplace": "",
+        "genre": "nonfiction"
+    },
+    "sentences": [
+        {
+            "text": "Webb ' s First Deep Field ( « Первое глубокое поле Уэбба » ) — космосалъулаб телескоп « Джеймс Уэббалъ » бахъараб тӀоцебесеб сурат .",
+            "words": [
+                {
+                    "wf": "Webb",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 24
+                },
+                {
+                    "wf": "'",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "s",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 22
+                },
+                {
+                    "wf": "First",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 21
+                },
+                {
+                    "wf": "Deep",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 20
+                },
+                {
+                    "wf": "Field",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 25,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": "(",
+                    "wtype": "punct",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "next_word": 7
+                },
+                {
+                    "wf": "«",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 29,
+                    "next_word": 8,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "Первое",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 36,
+                    "next_word": 9,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "глубокое",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 45,
+                    "next_word": 10,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "поле",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 50,
+                    "next_word": 11,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "Уэбба",
+                    "wtype": "word",
+                    "off_start": 51,
+                    "off_end": 56,
+                    "next_word": 12,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "»",
+                    "wtype": "word",
+                    "off_start": 57,
+                    "off_end": 58,
+                    "next_word": 13,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": ")",
+                    "wtype": "punct",
+                    "off_start": 59,
+                    "off_end": 60,
+                    "next_word": 14
+                },
+                {
+                    "wf": "—",
+                    "wtype": "word",
+                    "off_start": 61,
+                    "off_end": 62,
+                    "next_word": 15,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "lex": "—",
+                            "gr.tags": [
+                                "guio"
+                            ],
+                            "trans_ru": "—"
+                        }
+                    ]
+                },
+                {
+                    "wf": "космосалъулаб",
+                    "wtype": "word",
+                    "off_start": 63,
+                    "off_end": 76,
+                    "next_word": 16,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "телескоп",
+                    "wtype": "word",
+                    "off_start": 77,
+                    "off_end": 85,
+                    "next_word": 17,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "телескоп",
+                            "trans_ru": "телескоп",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "«",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 29,
+                    "next_word": 18,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "Джеймс",
+                    "wtype": "word",
+                    "off_start": 88,
+                    "off_end": 94,
+                    "next_word": 19,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "Уэббалъ",
+                    "wtype": "word",
+                    "off_start": 95,
+                    "off_end": 102,
+                    "next_word": 20,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "»",
+                    "wtype": "word",
+                    "off_start": 57,
+                    "off_end": 58,
+                    "next_word": 21,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "бахъараб",
+                    "wtype": "word",
+                    "off_start": 105,
+                    "off_end": 113,
+                    "next_word": 22,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "бахъизе",
+                            "trans_ru": "выйти",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        },
+                        {
+                            "lex": "бахъине",
+                            "trans_ru": "встать",
+                            "gr.v_form_ptcp": "gpr2",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "тӀоцебесеб",
+                    "wtype": "word",
+                    "off_start": 114,
+                    "off_end": 124,
+                    "next_word": 23,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "тӏоцебесеб",
+                            "trans_ru": "первое",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "сурат",
+                    "wtype": "word",
+                    "off_start": 125,
+                    "off_end": 130,
+                    "next_word": 24,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "сурат",
+                            "trans_ru": "картина",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 131,
+                    "off_end": 132,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        },
+        {
+            "text": "Сураталда бахъун буго бищун некӀсияб ГӀалам лъикӀаб расширениягун .",
+            "words": [
+                {
+                    "wf": "Сураталда",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "сурат",
+                            "trans_ru": "картина",
+                            "gr.case": "loc",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "бахъун",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "бахъизе",
+                            "trans_ru": "выйти",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        },
+                        {
+                            "lex": "бахъине",
+                            "trans_ru": "встать",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "буго",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "букӏине",
+                            "trans_ru": "быть",
+                            "gr.tense": "pres",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "iv",
+                            "gr.pos": "vblex"
+                        }
+                    ]
+                },
+                {
+                    "wf": "бищун",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "бищун",
+                            "trans_ru": "выбрать",
+                            "gr.pos": "adv"
+                        },
+                        {
+                            "lex": "бищизе",
+                            "trans_ru": "выбрать",
+                            "gr.gender": "nt",
+                            "gr.transitivity": "tv",
+                            "gr.pos": "vblex",
+                            "gr.v_form_cvb": "gna2"
+                        }
+                    ]
+                },
+                {
+                    "wf": "некӀсияб",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 36,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "некӏсияб",
+                            "trans_ru": "давный",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ГӀалам",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 43,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "гӏалам",
+                            "trans_ru": "толпа",
+                            "gr.case": "nom",
+                            "gr.num": "sg",
+                            "gr.gender": "nt",
+                            "gr.pos": "n"
+                        }
+                    ]
+                },
+                {
+                    "wf": "лъикӀаб",
+                    "wtype": "word",
+                    "off_start": 44,
+                    "off_end": 51,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "лъикӏаб",
+                            "trans_ru": "хороший",
+                            "gr.gender": "nt",
+                            "gr.pos": "adj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "расширениягун",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 65,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 66,
+                    "off_end": 67,
+                    "next_word": null
+                }
+            ],
+            "lang": 0
+        }
+    ]
+}
