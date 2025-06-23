@@ -1,0 +1,90 @@
+{
+  "avar": {
+    "vblex": "pos",
+    "n": "pos",
+    "adj": "pos",
+    "adv": "pos",
+    "prn": "pos",
+    "num": "pos",
+    "np": "pos",
+    "cnj": "pos",
+    "ij": "pos",
+    "post": "pos",
+    "abbr": "pos",
+
+    "emph": "clitics",
+    "qst": "clitics",
+    "quot": "clitics",
+    "mod": "clitics",
+    "neg": "clitics",
+    "cnjcoo": "clitics",
+    "cnjsub": "clitics",
+    "cnjadv": "clitics",
+  
+    "iv": "transitivity",
+    "tv": "transitivity",
+  
+    "caus": "aspect",
+    "imp": "aspect",
+    "freq": "aspect",
+
+    "inf": "v_form",
+    "ger": "v_form",
+
+    "aor": "tense",
+    "fut": "tense",
+    "past": "tense",
+    "pres": "tense",
+
+    "gpr1": "v_form_ptcp",
+    "gpr2": "v_form_ptcp",
+    "gpr3": "v_form_ptcp",
+
+    "gna1": "v_form_cvb",
+    "gna2": "v_form_cvb",
+    "gna3": "v_form_cvb",
+
+    "m": "gender",
+    "f": "gender",
+    "nt": "gender",
+    "pl": "gender",
+    "mfn": "gender",
+
+    "nom": "case",
+    "erg": "case",
+    "gen": "case",
+    "dat": "case",
+    "obl": "case",
+    "loc": "case",
+    "all": "case",
+    "abl": "case",
+    "tra": "case",
+
+    "sg": "num",
+    "pl": "num",
+
+    "pers": "prontype",
+    "rel": "prontype",
+    "ref": "prontype",
+    "itg": "prontype",
+    "dem": "prontype",
+    "ord": "prontype",
+    "ind": "prontype",
+
+    "top": "nametype",
+    "ant": "nametype",
+    "cog": "nametype",
+    "pat": "nametype",
+    "al": "nametype",
+
+    "subst": "other",
+    "attr": "other"
+  },
+  "kamas_phon": {},
+  "russian": {},
+  "english": {},
+  "german": {},
+  "german_src": {},
+  "english_note": {},
+  "ref": {}
+}
